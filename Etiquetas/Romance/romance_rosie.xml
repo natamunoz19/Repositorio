@@ -1,0 +1,46 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/romance_rosie</field>
+		<field name="id">romance_rosie</field>
+		<field name="Title">Tal vez es para siempre</field>
+		<field name="ShortTitle">Tal vez es para siempre</field>
+		<field name="Synopsis">Los imprevistos del amor cuenta la historia de dos íntimos amigos, Rosie (Lily Collins, Cazadores de sombras: Ciudad de hueso, El sicario de Dios) y Alex (Sam Claflin, Blancanieves y la leyenda del cazador, Los juegos del hambre: En llamas). Desde su infancia, habían confiado el uno en el otro y se habían contado sus secretos y confidencias. En su época del instituto, los dos protagonistas hicieron planes para ir juntos a la universidad, pero antes de que llegara el ese día, Rosie en una noche de locura y desenfreno junto a uno de los chicos más populares del instituto, se queda embarazada. Las intenciones de cada uno cambiaron radicalmente desde aquella noche, sin embargo su amistad permaneció por encima de todo. Mantuvieron su relación durante largos años, incluso en su vida adulta, cuando sus hijos eran ya adolescentes.</field>
+		<field name="Duration">PT102M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Amor</field>
+		<field name="Keyword">Rosie</field>
+		<field name="Keyword">Para siempre</field>		
+        
+		<!--Director y distribución-->
+		<field name="Director">	Christian Ditter</field>
+		<field name="CopyrightNotice">Lionsgate Films</field>
+		<field name="Classification">12</field>
+
+		<!--Reparto-->
+		<field name="Cast">Lily Collins (Rosie Dunne)</field>
+        <field name="Cast">Sam Claflin	(Alex Stewart)</field>
+        <field name="Cast">Christian Cooke (Greg)</field>
+        <field name="Cast">Jaime Winstone (Ruby)</field>
+        <field name="Cast">Suki Waterhouse (Bethany)</field>
+        <field name="Cast">Tamsin Egerton (Sally)</field>
+		
+		<!--lista géneros-->
+		<field name="Genre">Romance</field>
+		<field name="Genre">Drama</field>
+
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Alemania</field>
+        <field name="ProductionLocation">Reino Unido</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">9420</field>
+		<field name="FileDuration">PT2M31S</field>
+	</doc>
+</add>
+

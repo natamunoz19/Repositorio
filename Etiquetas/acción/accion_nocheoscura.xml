@@ -1,0 +1,51 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/accion_nocheoscura</field>
+		<field name="id">accion_nocheoscura</field>
+		<field name="Title">La noche mas oscura</field>
+		<field name="ShortTitle">La noche mas oscura</field>
+		<field name="Synopsis">Los asesinatos del 11 de septiembre marcaron una época e iniciaron otra marcada por el terror y la psicosis en el pueblo americano, por el miedo y la desconfianza ante el enemigo ejecutor. También supuso el comienzo de la búsqueda del líder de la organización que orquestó los ataques: Bin Laden y su grupo terrorista Al Qaeda. La oscarizada directora Kathryn Bigelow ('En tierra hostil') traza una ambiciosa crónica desde ese momento hasta la muerte de Bin Laden el 1 de mayo de 2011 por parte de las fuerzas Navy SEAL del ejercito estadounidense en Pakistán, centrándose la película especialmente en los días previos a esta milimétrica operación de exterminio del líder yihadista, que fue planeada durante de muchos años de investigación de alto secreto gubernamental. </field>
+		<field name="Duration">PT157M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Noche</field>
+		<field name="Keyword">Oscura</field>
+		<field name="Keyword">Suspenso</field>
+        <field name="Keyword">Accion</field>
+
+		<!--Director y distribución-->
+		<field name="Director">Kathryn Bigelow</field>
+		<field name="CopyrightNotice">Columbia Pictures</field>
+		<field name="Classification">15</field>
+
+		<!--Reparto-->
+		<field name="Cast">Jessica Chastain (Maya)</field>
+        <field name="Cast">Jason Clarke (Dan)</field>
+        <field name="Cast">Joel Edgerton (Patrick)</field>
+        <field name="Cast">Chris Pratt (Justin)</field>
+        <field name="Cast">Mark Strong (George)</field>
+        <field name="Cast">Jennifer Ehle (Jessica)</field>
+        <field name="Cast">Kyle Chandler (Joseph Bradley)</field>
+        <field name="Cast">Édgar Ramírez (Larry)</field>        
+	
+		<!--lista géneros-->
+		
+		<field name="Genre">Drama</field>
+        <field name="Genre">Suspenso</field>
+        <field name="Genre">Historico</field>
+        <field name="Genre">Belico</field>
+
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">11000</field>
+		<field name="FileDuration">PT2M37S</field>
+	</doc>
+</add>
+

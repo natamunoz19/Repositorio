@@ -1,0 +1,51 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/cienciaf_cleanskin</field>
+		<field name="id">cienciaf_cleanskin</field>
+		<field name="Title">Cleanskin: Amenaza terrorista</field>
+		<field name="ShortTitle">Cleanskin</field>
+		<field name="Synopsis">Ewan es un hombre que trabaja como Agente del Servicio Secreto Británico. Desde hace un tiempo, en su mente solo hay un objetivo: capturar a Ash, un individuo asiático que se postula como uno de los mayores terrotistas suicida a nivel internacional.</field>
+		<field name="Duration">PT108M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Cleanskin</field>
+		<field name="Keyword">agente</field>
+        <field name="Keyword">Ciencia ficcion</field>
+
+		<!--Director y distribución-->
+		<field name="Director">Hadi Hajaig</field>
+		<field name="CopyrightNotice">Warner Bros</field>
+		<field name="Classification">T</field>
+
+		<!--Reparto-->
+		<field name="Cast">Sean Bean (Ewan)</field>
+		<field name="Cast">Abhin Galeya (Ash)</field>
+		<field name="Cast">Charlotte Rampling (Charlotte McQueen)</field>
+        <field name="Cast">Peter Polycarpou (Nabil)</field>
+        <field name="Cast">Tom Burke (Mark)</field>
+        <field name="Cast">Tuppence Middleton (Kate)</field>
+        <field name="Cast">Michelle Ryan (Emma)</field>
+        <field name="Cast">Sam Douglas (Harry)</field>
+        <field name="Cast">James Fox (Scott Catesby)</field>
+        <field name="Cast">Tariq Jordan (Paul)</field>
+        <field name="Cast">Shivani Ghai (Rena)</field>
+        <field name="Cast">Chris Ryman (Yussif)</field>
+
+		<!--lista géneros-->
+		<field name="Genre">Ciencia Ficción</field>
+		<field name="Cast">Suspenso</field>        
+		
+		<!--lista idiomas-->
+		<field name="Language">en</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Gran Bretaña</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">19200</field>
+		<field name="FileDuration">PT2M08S</field>
+	</doc>
+</add>
+

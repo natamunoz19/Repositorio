@@ -1,0 +1,50 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/accion_transformers</field>
+		<field name="id">accion_transformers</field>
+		<field name="Title">Transformers: La era de la extinción</field>
+		<field name="ShortTitle">Transformers 4</field>
+		<field name="Synopsis">'Transformers: la era de la extinción' nos sitúa cuatro años después del incidente de Chicago ocurrido durante la anterior película. Tanto los Autobots como los Decepticons han desaparecido de la Tierra, y la civilización sigue inmersa en reparar los destrozos de aquel incidente. Sin embargo, un nuevo proyecto llevado a cabo por el gobierno de los Estados Unidos está recabando información y rescatando la tecnología que se sigue encontrando por el suceso de Chicago para crear unos Transformers propios. El proyecto está liderado por Joshua Joyce (Stanley Tucci), cuyo máximo objetivo es desarrollar unos robots aún más avanzados que los Transformers.</field>
+		<field name="Duration">PT166M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">transformers 4</field>
+		<field name="Keyword">extinción</field>
+		<field name="Keyword">era</field>
+
+		<!--Director y distribución-->
+		<field name="Director">Michael Bay</field>
+		<field name="CopyrightNotice">	Paramount Pictures Fox</field>
+		<field name="Classification">15</field>
+
+		<!--Reparto-->
+		<field name="Cast">Mark Wahlberg (Cade Yeager)</field>
+        <field name="Cast">Nicola Peltz (Tessa Yeager)</field>
+        <field name="Cast">Jack Reynor (Shane Dyson)</field>
+        <field name="Cast">Stanley Tucci (Joshua Joyce)</field>
+        <field name="Cast">Kelsey Grammer (Harold Attinger)</field>
+        <field name="Cast">Sophia Myles (Darcy Tirrel)</field>
+        <field name="Cast">Titus Welliver (James Savoy)</field>
+        <field name="Cast">Li Bingbing (Su Yueming)</field>
+        <field name="Cast">T. J. Miller (Lucas Flannery)</field>
+
+		<!--lista géneros-->
+		<field name="Genre">Infantil</field>
+		<field name="Genre">Ciencia Ficción</field>
+		<field name="Genre">Acción</field>
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+        <field name="ProductionLocation">China</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">9080</field>
+		<field name="FileDuration">PT2M19S</field>
+	</doc>
+</add>
+

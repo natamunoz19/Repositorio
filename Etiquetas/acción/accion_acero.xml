@@ -1,0 +1,51 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/accion_acero</field>
+		<field name="id">accion_acero</field>
+		<field name="Title">El hombre de acero</field>
+		<field name="ShortTitle">El hombre de acero</field>
+		<field name="Synopsis">La nueva película de la saga de Superman, dirigida por Zack Snyder ('300', 'Watchmen') está protagonizada por Henri Cavill ('Los Tudor', 'La fría luz del día') en el papel de Superman / Clark Kent, y Amy Adams ('Los Muppets') como Loise Lane, la periodista del Daily Planet.</field>
+		<field name="Duration">PT143M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Superman</field>
+		<field name="Keyword">Gotham</field>
+        <field name="Keyword">superhéroe</field>
+        <field name="Keyword">DC Comics</field>
+
+		<!--Director y distribución-->
+		<field name="Director">	Zack Snyder</field>
+		<field name="CopyrightNotice">Warner Bros Pictures</field>
+		<field name="Classification">12</field>
+
+		<!--Reparto-->
+		<field name="Cast">Henry Cavill (Clark Kent/Kal-El/Superman)</field>
+		<field name="Cast">Amy Adams (Lois Lane)</field>
+		<field name="Cast">Michael Shannon (General Dru-Zod)</field>
+        <field name="Cast">Kevin Costner (Jonathan Kent)</field>
+        <field name="Cast">Diane Lane (Martha Kent)</field>
+        <field name="Cast">Laurence Fishburne (Perry White)</field>
+        <field name="Cast">Antje Traue (Faora)</field>
+        <field name="Cast">Ayelet Zurer (Lara Lor-Van)</field>
+        <field name="Cast">Christopher Meloni (Coronel Nathan Hardy)</field>
+        <field name="Cast">Russell Crowe (Jor-El)</field>
+        <field name="Cast">Christina Wren (Capitana Carrie Farris)</field>
+
+		<!--lista géneros-->
+		<field name="Genre">Ciencia Ficción</field>
+		<field name="Genre">Acción</field>
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">12200</field>
+		<field name="FileDuration">PT2M46S</field>
+	</doc>
+</add>
+

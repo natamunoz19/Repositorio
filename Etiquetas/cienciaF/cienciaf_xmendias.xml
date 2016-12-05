@@ -1,0 +1,67 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/cienciaf_xmendias</field>
+		<field name="id">cienciaf_xmendias</field>
+		<field name="Title">Xmen: Dias del futuro pasado</field>
+		<field name="ShortTitle">Xmen: Dias del futuro pasado</field>
+		<field name="Synopsis">Ambientada en la década de los 70, los miembros de la famosa Patrulla X tendrán que evitar un futuro apocalíptico en el que los mutantes luchan por sobrevivir en campos de concentración controlados por los temibles Centinelas. Para ello, los héroes del universo Marvel deberán unificar sus fuerzas dejando a un lado la creciente enemistad de los bandos liderados por Charles Xavier y Magneto. Trask Industries, la empresa encargada de crear a estos gigantescos cazamutantes, será el origen de todos sus problemas. Tan sólo viajando en el tiempo podrán impedir la masacre que se avecina. ¿Serán capaces nuestros héroes de derrocar a la multinacional y evitar así el exterminio de su especie?</field>
+		<field name="Duration">PT132M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">X men</field>
+		<field name="Keyword">Dias</field>
+        <field name="Keyword">Futuro</field>
+        <field name="Keyword">Pasado</field>
+		<field name="Keyword">Marvel</field>
+
+		<!--Director y distribución-->
+		<field name="Director">Bryan Singer</field>
+		<field name="CopyrightNotice">20th Century Fox</field>
+		<field name="Classification">12</field>
+
+		<!--Reparto-->
+        <field name="Cast">Hugh Jackman (Logan/Wolverine)</field>
+        <field name="Cast">James McAvoy y Patrick Stewart (Charles Xavier)</field>
+        <field name="Cast">Michael Fassbender e Ian McKellen (Erik Lehnsherr/Magneto)</field>
+        <field name="Cast">Jennifer Lawrence (Raven Darkholme/Mystique)</field>
+        <field name="Cast">Halle Berry (Ororo Munroe/Storm)</field>
+        <field name="Cast">Nicholas Hoult y Kelsey Grammer (Hank McCoy/Beast)</field>
+        <field name="Cast">Anna Paquin (Marie D'Ancanto/Rogue)</field>
+        <field name="Cast">Evan Peters (Peter Maximoff/Quicksilver)</field>
+        <field name="Cast">Peter Dinklage (Bolivar Trask)</field>
+        <field name="Cast">Shawn Ashmore (Bobby Drake/Iceman)</field>
+        <field name="Cast">Daniel Cudmore (Peter Rasputin/Colossus)</field>
+        <field name="Cast">Ellen Page (Kitty Pryde/Shadowcat)</field>
+        <field name="Cast">Fan Bingbing (Clarice Ferguson/Blink)</field>
+        <field name="Cast">Booboo Stewart (James Proudstar/Warpath)</field>
+        <field name="Cast">Omar Sy (Lucas Bishop/Bishop)</field>
+        <field name="Cast">Adan Canto (Roberto "Bobby" da Costa/Sunspot)</field>
+        <field name="Cast">Lucas Till (Alex Summers/Havok)</field>
+        <field name="Cast">Josh Helman (William Stryker)</field>
+        <field name="Cast">Evan Jonigkeit (Mortimer Toynbee/Toad)</field>
+        <field name="Cast">Gregg Lowe (Eric Gitter/Ink)</field>
+        <field name="Cast">Mark Camacho (Richard Nixon)</field>
+        <field name="Cast">Famke Janssen (Jean Grey)</field>
+        <field name="Cast">James Marsden (Scott Summers/Cyclops)</field>
+        <field name="Cast">Brendan Pedder (En Sabah Nur)</field>
+		
+		<!--lista géneros-->
+		<field name="Genre">Ciencia Ficción</field>
+		<field name="Genre">Aventura</field>
+		<field name="Genre">Acción</field>
+
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+        <field name="ProductionLocation">Gran Bretaña</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">28400</field>
+		<field name="FileDuration">PT2M34S</field>
+	</doc>
+</add>
+

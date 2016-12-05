@@ -1,0 +1,50 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/romance_nicknora</field>
+		<field name="id">romance_nicknora</field>
+		<field name="Title">Nick y Nora, Una Noche de Música y Amor </field>
+		<field name="ShortTitle">Nick y Nora</field>
+		<field name="Synopsis">Nick O'Leary (Michael Cera), que frecuenta los locales de música "indie" de Nueva York con su grupo, acaba de romper con su novia, y ahora apenas es poco más que un joven sensible que toca el bajo y que tiene el corazón roto. Una noche, una chica le pedirá que finja ser su novio durante cinco minutos para esquivar a una antigua pareja. Así conocerá a Norah Silverberg (Kat Dennings), con quien no parece tener nada en común, salvo su gusto por el mismo tipo de música. Juntos se embarcarán en una noche llena de aventuras...</field>
+		<field name="Duration">PT90M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Noche</field>
+		<field name="Keyword">Musica</field>
+		<field name="Keyword">Nick y Nora</field>
+        <field name="Keyword">Amor</field>
+  
+		<!--Director y distribución-->
+		<field name="Director">Peter Sollett</field>
+		<field name="CopyrightNotice">Columbia Pictures</field>
+		<field name="Classification">T</field>
+
+		<!--Reparto-->
+		<field name="Cast">Michael Cera (Nick O'Leary)</field>
+        <field name="Cast">Kat Dennings (Norah Silverberg)</field>
+        <field name="Cast">Ari Graynor (Caroline)</field>
+        <field name="Cast">Alexis Dziena (Tris)</field>
+        <field name="Cast">Aaron Yoo (Thom)</field>
+        <field name="Cast">Rafi Gavron (Dev)</field>
+        <field name="Cast">Jay Baruchel (Tal)</field>
+        <field name="Cast">Jonathan B. Wright (Lethario)</field>
+        <field name="Cast">Eddie Kaye Thomas (novio de Graynor)</field>
+        <field name="Cast">Kevin Corrigan (cameo)</field>
+		
+		<!--lista géneros-->
+		<field name="Genre">Romance</field>
+		<field name="Genre">Comedia</field>
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos </field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">9120</field>
+		<field name="FileDuration">PT2M35S</field>
+	</doc>
+</add>
+

@@ -1,0 +1,52 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/accion_capitan2</field>
+		<field name="id">accion_capitan2</field>
+		<field name="Title">Capitán América : El soldado de invierno </field>
+		<field name="ShortTitle">Capitán América 2</field>
+		<field name="Synopsis">Mientras que Capitán America: El primer vengador nos sumergía en los primeros años del universo Marvel a través de la traslación del legendario cómic a la gran pantalla, ahora el héroe regresa con Capitán América: El soldado del invierno. Esta historia se desarrolla en la actualidad y tiene como protagonistas a Chris Evans, Samuel L. Jackson y Scarlett Johansson, entre otros.</field>
+		<field name="Duration">PT128M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Capitan</field>
+		<field name="Keyword">América</field>
+		<field name="Keyword">soldado</field>
+        <field name="Keyword">Invierno</field>
+        <field name="Keyword">2</field>
+        
+		<!--Director y distribución-->
+		<field name="Director">Hermanos Russo</field>
+		<field name="CopyrightNotice">	Walt Disney Studios Motion Pictures</field>
+		<field name="Classification">12</field>
+
+		<!--Reparto-->
+		<field name="Cast">Chris Evans (Steven Rogers/ Capitán América)</field>		
+		<field name="Cast">Scarlett Johansson (Natasha Romanoff/ Viuda Negra)</field>
+		<field name="Cast">Sebastian Stan(James Barnes/El soldado del invierno)</field>
+		<field name="Cast">Anthony Mackie (Sam Wilson/Falcon)</field>
+		<field name="Cast">Emily VanCamp (Sharon Carter)</field>
+		<field name="Cast">Frank Grillo (Brock Rumlow/Calavera)</field>
+		<field name="Cast">Cobie Smulders (Maria Hill)</field>
+		<field name="Cast">Hayley Atwell (Peggy Carter)</field>
+		<field name="Cast">Robert Redford (Alexander Pierce)</field>
+		<field name="Cast">Samuel L. Jackson (Nick Fury)</field>
+
+		<!--lista géneros-->
+		<field name="Genre">Ciencia Ficción</field>
+		<field name="Genre">Acción</field>
+        <field name="Genre">Suspenso</field>
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">9440</field>
+		<field name="FileDuration">PT2M24S</field>
+	</doc>
+</add>
+

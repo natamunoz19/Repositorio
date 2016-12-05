@@ -1,0 +1,51 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/cienciaf_sicario</field>
+		<field name="id">cienciaf_sicario</field>
+		<field name="Title">Sicario: Tierra de nadie</field>
+		<field name="ShortTitle">Sicario</field>
+		<field name="Synopsis">En la zona fronteriza que se extiende entre Estados Unidos y México la joven Kate Macer, una idealista agente del FBI, es reclutada por una fuerza de élite del Gobierno para luchar contra el narcotráfico. Bajo el mando de Matt Graver, un frío miembro de las fuerzas gubernamentales, y de Alejandro, un enigmático asesor, el equipo emprende una misión que lleva a la mujer a cuestionarse sus convicciones sobre la guerra contra los narcos y los límites de la ley.</field>
+		<field name="Duration">PT121M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Sicario</field>
+		<field name="Keyword">tierra de nadie</field>
+		<field name="Keyword">policia</field>
+
+		<!--Director y distribución-->
+		<field name="Director">Denis Villeneuve</field>
+		<field name="CopyrightNotice">Lionsgate</field>
+		<field name="Classification">12</field>
+
+		<!--Reparto-->		
+        <field name="Cast">Emily Blunt (Kate Macer)</field>
+        <field name="Cast">Benicio del Toro (Alejandro)</field>
+        <field name="Cast">Josh Brolin (Matt)</field>
+        <field name="Cast">Jon Bernthal (Ted)</field>
+        <field name="Cast">Victor Garber (Dave Jennings)</field>
+        <field name="Cast">Daniel Kaluuya (Reggie Wayne)</field>
+        <field name="Cast">Maximiliano Hernández (Silvio)</field>
+        <field name="Cast">Jeffrey Donovan (Steve Forsing)</field>
+        <field name="Cast">Julio Cedillo (Fausto Alarcón)</field>
+        <field name="Cast">Raoul Trujillo (Rafael)</field>
+        <field name="Cast">Bernardo P. Saracino (Manuel Diaz)</field>
+        <field name="Cast">Lora Martínez Cunningham (Jacina)</field>
+
+		<!--lista géneros-->
+		<field name="Genre">Policial</field>
+		<field name="Cast">Suspenso</field>        
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">33600</field>
+		<field name="FileDuration">PT2M45S</field>
+	</doc>
+</add>
+

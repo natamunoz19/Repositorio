@@ -1,0 +1,60 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/romance_sinmi</field>
+		<field name="id">romance_sinmi</field>
+		<field name="Title">Mi historia sin mi</field>
+		<field name="ShortTitle">Mi historia sin mi</field>
+		<field name="Synopsis">"Mi historia sin mi" es un viaje poco convencional a la vida de Bob Dylan. Seis actores retratan a Dylan como una serie de personas cambiantes, de lo público a lo privado, a lo fantástico, tejiendo un rico y colorido retrato de este icono americano.</field>
+		<field name="Duration">PT135M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Not there</field>
+		<field name="Keyword">Amor</field>
+		<field name="Keyword">Bob Dylan</field>
+        <field name="Keyword">Sin mi</field>
+  
+		<!--Director y distribución-->
+		<field name="Director">Todd Haynes</field>
+		<field name="CopyrightNotice">The Weinstein Company</field>
+		<field name="Classification">T</field>
+
+		<!--Reparto-->
+		<field name="Cast">Cate Blanchett</field>
+        <field name="Cast">Heath Ledger</field>
+        <field name="Cast">Charlotte Gainsbourg</field>
+        <field name="Cast">Richard Gere</field>
+        <field name="Cast">Christian Bale</field>
+        <field name="Cast">Julianne Moore</field>
+        <field name="Cast">Ben Whishaw</field>
+        <field name="Cast">Marcus Carl Franklin</field>
+        <field name="Cast">Kris Kristofferson</field>
+        <field name="Cast">Don Francks</field>
+        <field name="Cast">Roc LaFortune</field>
+        <field name="Cast">Larry Day</field>
+        <field name="Cast">Paul Cagelet</field>
+        <field name="Cast">Pierre-Alexandre Fortin</field>
+        <field name="Cast">Richie Havens</field>
+        <field name="Cast">Tyrone Benskin</field>
+        <field name="Cast">Kim Roberts</field>
+        <field name="Cast">Michelle Williams</field>
+		
+		<!--lista géneros-->
+		<field name="Genre">Romance</field>
+		<field name="Genre">Drama</field>
+        <field name="Genre">Biografica</field>
+		
+		<!--lista idiomas-->
+		<field name="Language">en</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		<field name="ProductionLocation">Alemania</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">3290</field>
+		<field name="FileDuration">PT1M04S</field>
+	</doc>
+</add>
+

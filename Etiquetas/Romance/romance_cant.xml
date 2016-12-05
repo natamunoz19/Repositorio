@@ -1,0 +1,55 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/romance_cant</field>
+		<field name="id">romance_cant</field>
+		<field name="Title">I Can't Think Straight</field>
+		<field name="ShortTitle">I Can't Think Straight</field>
+		<field name="Synopsis">Tala, un palestino con sede en Londres, se está preparando para su elaborado boda medio oriente cuando conoce a Leyla, una joven india británica que está saliendo con su mejor amiga. </field>
+		<field name="Duration">PT80M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Tala</field>
+		<field name="Keyword">Londres</field>
+		<field name="Keyword">Leyla</field>		
+        <field name="Keyword">Amor</field>
+  
+		<!--Director y distribución-->
+		<field name="Director">	Shamim Sarif</field>
+		<field name="CopyrightNotice">Enlightenment Productions</field>
+		<field name="Classification">T</field>
+
+		<!--Reparto-->
+		<field name="Cast">Lisa Ray (Tala)</field>
+        <field name="Cast">Sheetal Sheth (Leyla)</field>
+        <field name="Cast">Antonia Frering (Reema)</field>
+        <field name="Cast">Dalip Tahil (Omar)</field>
+        <field name="Cast">Nina Wadia</field>
+        <field name="Cast">Ernest Ignatius (Sam)</field>
+        <field name="Cast">Kimberly Jaraj (Zina)</field>
+        <field name="Cast">Sam Vincenti (Kareem)</field>
+        <field name="Cast">Anya Lahiri (Lamia)</field>
+        <field name="Cast">Rez Kempton (Ali)</field>
+        <field name="Cast">Daud Shah Hani</field>
+        <field name="Cast">Ishwar Maharaj (Sami)</field>
+        <field name="Cast">Amber Rose Revah (Yasmin)</field>
+		
+		<!--lista géneros-->
+		<field name="Genre">Romance</field>
+		<field name="Genre">Suspenso</field>
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Gran Bretaña</field>
+        <field name="ProductionLocation">Estados Unidos</field>
+        <field name="ProductionLocation">India</field>
+
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">4770</field>
+		<field name="FileDuration">PT1M42S</field>
+	</doc>
+</add>
+

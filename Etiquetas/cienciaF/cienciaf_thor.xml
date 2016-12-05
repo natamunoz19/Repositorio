@@ -1,0 +1,60 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/cienciaf_thor</field>
+		<field name="id">cienciaf_thor</field>
+		<field name="Title">THOR: EL MUNDO OSCURO</field>
+		<field name="ShortTitle">THOR: EL MUNDO OSCURO</field>
+		<field name="Synopsis">Thor: El mundo oscuro es la continuación en la gran pantalla de las aventuras de Thor el Vengador, que lucha constantemente por salvar al mundo y a los Nueve Reinos. Esta película está dirigida por Alan Taylor, reconocido por dirigir series como Juego de Tronos y Bored to Death y el filme Palookaville (1995). Además de los actores mencionados, el reparto cuenta con otros como Tom Hiddleston (Exhibition), Stellan Skarsgård (Un largo viaje), Kat Dennings (Defendor) y Jaimie Alexander (El último desafío).</field>
+		<field name="Duration">PT112M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Thor</field>
+		<field name="Keyword">Marvel</field>
+		<field name="Keyword">Mundo oscuro</field>
+		<field name="Keyword">Ciencia ficcion</field>
+        <field name="Keyword">Superhéroes</field>
+
+		<!--Director y distribución-->
+		<field name="Director">	Alan Taylor</field>
+		<field name="CopyrightNotice">Walt Disney Pictures</field>
+		<field name="Classification">12</field>
+
+		<!--Reparto-->
+		<field name="Cast">Chris Hemsworth (Thor)</field>
+		<field name="Cast">Tom Hiddleston (Loki)</field>
+        <field name="Cast">Natalie Portman (Jane Foster)</field>
+        <field name="Cast">Idris Elba (Heimdall)</field>
+        <field name="Cast">Christopher Eccleston (Malekith el Maldito)</field>
+        <field name="Cast">Jaimie Alexander (Sif)</field>
+        <field name="Cast">Adewale Akinnuoye-Agbaje (Algrim el Fuerte/Kurse)</field>
+        <field name="Cast">Ray Stevenson (Volstagg)</field>
+        <field name="Cast">Zachary Levi (Fandral)</field>
+        <field name="Cast">Kat Dennings (Darcy Lewis)</field>
+        <field name="Cast">Tadanobu Asano (Hogun)</field>
+        <field name="Cast">Stellan Skarsgard (Dr. Erik Selvig)</field>
+        <field name="Cast">Rene Russo (Frigga)</field>
+        <field name="Cast">Anthony Hopkins (Odín)</field>	
+		
+		<!--lista géneros-->
+		<field name="Genre">Ciencia Ficción</field>
+		<field name="Cast">Acción</field>
+        <field name="Cast">Fantasía</field>
+        <field name="Cast">Aventura</field>
+        <field name="Cast">Comedia</field>
+        <field name="Cast">Drama</field>
+        <field name="Cast">Suspenso</field>        
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">33600</field>
+		<field name="FileDuration">PT2M45S</field>
+	</doc>
+</add>
+
