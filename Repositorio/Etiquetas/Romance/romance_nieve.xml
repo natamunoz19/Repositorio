@@ -1,0 +1,48 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/romance_nieve</field>
+		<field name="id">romance_nieve</field>
+		<field name="Title">Cuando cae la nieve</field>
+		<field name="ShortTitle">Cuando cae la nieve</field>
+		<field name="Synopsis">A finales de los años 50 en Moscú, la joven Katya trabaja como espía del gobierno americano en plena carrera armamentística durante la Guerra Fría. Su misión consiste en obtener información de primera mano de Alexander, un hombre que a pesar de su juventud se ha convertido en la nueva promesa del gobierno ruso. Pero lo que Katya no espera es enamorarse de él.  </field>
+		<field name="Duration">PT93M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Nieve</field>
+		<field name="Keyword">Moscú</field>
+		<field name="Keyword">Guerra</field>
+		<field name="Keyword">Comunismo</field>
+        <field name="Keyword">Amor</field>
+  
+		<!--Director y distribución-->
+		<field name="Director">	Shamim Sarif</field>
+		<field name="CopyrightNotice"> DeaPlaneta</field>
+		<field name="Classification">12</field>
+
+		<!--Reparto-->
+		<field name="Cast">Rebecca Ferguson (Katya)</field>
+		<field name="Cast">Charles Dance (Old Alexander)</field>
+		<field name="Cast">Antje Traue (Marina)</field>
+		<field name="Cast">Sam Reid (Alexander)</field>
+		<field name="Cast">Oliver Jackson-Cohen (Misha)</field>
+		<field name="Cast">Anthony Stewart Head (Old Misha)</field>
+		
+		<!--lista géneros-->
+		<field name="Genre">Romance</field>
+		<field name="Genre">Suspenso</field>
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Gran Bretaña</field>
+        <field name="ProductionLocation">Canadá</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">4770</field>
+		<field name="FileDuration">PT1M42S</field>
+	</doc>
+</add>
+

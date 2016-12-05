@@ -1,0 +1,62 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/animadas_panda3</field>
+		<field name="id">animadas_panda3</field>
+		<field name="Title">Kung Fu Panda 3 </field>
+		<field name="ShortTitle">Kung Fu Panda 3</field>
+		<field name="Synopsis">Tercera película de la saga "Kung Fu Panda", en la que Po deberá hacer frente a dos desafíos épicos: uno, de origen sobrenatural; el otro, muy cerca de su hogar, con la aparición del que dice ser su padre biológico..</field>
+		<field name="Duration">PT92M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Panda</field>
+		<field name="Keyword">Animales</field>
+		<field name="Keyword">Kung/field>
+        <field name="Keyword">Fu</field>
+        <field name="Keyword">Animal</field>
+		<field name="Keyword">Maestro</field>
+		
+
+		<!--Director y distribución-->
+		<field name="Director"> Jennifer Yuh Nelson</field>
+		<field name="CopyrightNotice">20th Century Fox</field>
+		<field name="Classification">7</field>
+
+		<!--Reparto-->
+		<field name="Cast"> Jack Black (Po)</field>
+		<field name="Cast">Bryan Cranston (Li Shan)</field>
+        <field name="Cast">James Hong (Sr. Ping)</field>
+        <field name="Cast">J. K. Simmons ( Kai)</field>
+        <field name="Cast">Dustin Hoffman (Maestro Shifu)</field>
+		<field name="Cast">Angelina Jolie (Maestra Tigresa) </field>
+		<field name="Cast"> David Cross (Maestro Grulla)</field>
+		<field name="Cast">Jackie Chan (Maestro Mono) </field>
+		<field name="Cast">Wayne Knight (Hom-Lee) </field>
+		<field name="Cast">Seth Rogen ( Maestro Mantis) </field>
+		<field name="Cast">Lucy Liu ( Maestra Víbora) </field>
+		<field name="Cast"> Kate Hudson (Mei Mei) </field>
+		<field name="Cast">Randall Duk Kim ( Maestro Oogway) </field>
+		<field name="Cast">Steele Gagnon (Bao)</field>
+		
+		
+		<!--lista géneros-->
+		<field name="Genre">Animadas</field>
+		<field name="Genre">Comedia</field>
+        <field name="Genre">Infantil</field>
+		<field name="Genre">Aventura</field>
+
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">6390</field>
+		<field name="FileDuration">PT2M33S</field>
+	</doc>
+</add>
+

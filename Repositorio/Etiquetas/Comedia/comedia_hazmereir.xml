@@ -1,0 +1,52 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/comedia_hazmereir</field>
+		<field name="id">comedia_hazmereir</field>
+		<field name="Title">Funny People: Hazme reir </field>
+		<field name="ShortTitle">Hazme reir </field>
+		<field name="Synopsis">George Simmons es un gran exitoso actor de películas cómicas quien tiene como hobby asistir a stand-up comedy (comediante en vivo), donde conoce a un buen participante el cual influirá mucho en su vida; hasta que se entera de que tiene un trastorno de la sangre intratable y se le da menos de un año para vivir. Ira es un aspirante comediante que trabaja en un deli y que todavía tiene que averiguar el escenario de su persona. Una noche, estos dos realizan un show en el mismo club y George toma nota de Ira. George contrata a Ira para ser su asistente personal, así como su amigo. </field>
+		<field name="Duration">PT146M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Reir</field>
+		<field name="Keyword">Funny</field>
+		<field name="Keyword">People</field>
+        <field name="Keyword">show</field>
+  
+		<!--Director y distribución-->
+		<field name="Director">	Judd Apatow</field>
+		<field name="CopyrightNotice">Universal Pictures</field>
+		<field name="Classification">12</field>
+
+		<!--Reparto-->
+		<field name="Cast">Adam Sandler (George Simmons)</field>
+		<field name="Cast">Seth Rogen  (Ira Wright)</field>
+		<field name="Cast">Leslie Mann (Laura)</field>
+		<field name="Cast">Eric Bana (Clarke)</field>
+		<field name="Cast">Jonah Hill (Leo Koenig)</field>
+		<field name="Cast">Jason Schwartzman (Mark Taylor Jackson)</field>
+		<field name="Cast">Aubrey Plaza (Daisy Danby)</field>
+        <field name="Cast">Aziz Ansari  (Randy Kale)</field>
+        <field name="Cast">Andy Dick (Ray Bilson)</field>
+		<field name="Cast">Eminem (Eminem) </field>
+		
+		
+		<!--lista géneros-->
+		<field name="Genre">Comedia</field>
+		<field name="Genre">Drama</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">6730</field>
+		<field name="FileDuration">PT2M31S</field>
+	</doc>
+</add>
+

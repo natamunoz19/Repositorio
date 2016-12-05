@@ -1,0 +1,69 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/animadas_dory</field>
+		<field name="id">animadas_dory</field>
+		<field name="Title">Buscando a Dory</field>
+		<field name="ShortTitle">Buscando a Dory</field>
+		<field name="Synopsis">Un año después de los acontecimientos narrados en "Buscando a Nemo", Dory vive apaciblemente con Marlin y su hijo Nemo. Pero durante un viaje para ver cómo las mantarrayas migran de vuelta a casa, los problemas de memoria de Dory parecen desaparecer durante un segundo: recuerda que tiene una familia e inmediatamente decide emprender viaje para reencontrarse con sus padres, a los que perdió hace años. </field>
+		<field name="Duration">PT97M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Buscando</field>
+		<field name="Keyword">Dory</field>
+		<field name="Keyword">Nemo</field>
+		<field name="Keyword">Merlin</field>
+		<field name="Keyword">Pez</field>
+		<field name="Keyword">Peces</field>
+		<field name="Keyword">Mar</field>
+		<field name="Keyword">Familia</field>
+		<field name="Keyword">Animales</field>
+
+		<!--Director y distribución-->
+		<field name="Director">Richard Rich</field>
+		<field name="CopyrightNotice">Walt Disney Animation Studios</field>
+		<field name="Classification">T</field>
+
+		<!--Reparto-->
+
+		<field name="Cast">Ellen DeGeneres ( Dory )
+		<field name="Cast">Albert Brooks ( Marlin)</field>
+		<field name="Cast">Hayden Rolence (Nemo)</field>
+		<field name="Cast">Ed O'Neill (Hank)</field>
+		<field name="Cast">Diane Keaton (Jenny)</field>
+		<field name="Cast">Eugene Levy ( Charlie)</field>
+		<field name="Cast">Kaitlin Olson ( Destiny)</field>
+		<field name="Cast">Ty Burrell ( Bailey)</field>
+		<field name="Cast">Vicki Lewis ( Deb)</field>
+		<field name="Cast">Bob Peterson ( Maestro Raya)</field>
+		<field name="Cast">Andrew Stanton ( Crush)</field>
+		<field name="Cast">Dominic West ( Rudder)</field>
+		<field name="Cast">Idris Elba ( Fluke)</field>
+		<field name="Cast">John Ratzenberger ( Bill)</field>
+		<field name="Cast">Bennett Dammann ( Squirt)</field>
+		<field name="Cast">Torbin Bullock ( Becky)</field>
+		<field name="Cast">Willem Dafoe (Gill)</field>
+		<field name="Cast">Bill Hader ( Ned)</field>
+		<field name="Cast">Kate McKinnon ( Inez)</field>
+
+		
+		<!--lista géneros-->
+		<field name="Genre">Aventura</field>
+		<field name="Genre">Comedia</field>
+		<field name="Genre">Animadas</field>
+		<field name="Genre">Infantil</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">12400</field>
+		<field name="FileDuration">PT1M02S</field>
+	</doc>
+</add>
+

@@ -1,0 +1,52 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/accion_batman</field>
+		<field name="id">accion_batman</field>
+		<field name="Title">Batman vs Superman: el origen de la justicia</field>
+		<field name="ShortTitle">Batman vs Superman</field>
+		<field name="Synopsis"> Ante el temor de las acciones que pueda llevar a cabo Superman, el vigilante de Gotham City aparece para poner a raya al superhéroe de Metrópolis, mientras que la opinión pública debate cuál es realmente el héroe que necesitan. El hombre de acero y Batman se sumergen en una contienda territorial, pero las cosas se complican cuando una nueva y peligrosa amenaza surge rápidamente, poniendo en jaque la existencia de la humanidad. </field>
+		<field name="Duration">PT153M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Batman</field>
+		<field name="Keyword">Superman</field>
+		<field name="Keyword">Gotham</field>
+        <field name="Keyword">superhéroe</field>
+        <field name="Keyword">Metrópolis</field>
+
+		<!--Director y distribución-->
+		<field name="Director">	Zack Snyder</field>
+		<field name="CopyrightNotice">	Warner Bros. Pictures</field>
+		<field name="Classification">12</field>
+
+		<!--Reparto-->
+		<field name="Cast">Ben Affleck (Bruce Wayne/ Batman)</field>
+		<field name="Cast">Henry Cavill  (Clark Kent / Superman)</field>
+		<field name="Cast">Jesse Eisenberg (Lex Luthor)</field>
+		<field name="Cast">Amy Adams  (Louis Lane)</field>
+		<field name="Cast">Jeremy Irons (Alfred Pennywoth)</field>
+		<field name="Cast">Laurence Fishburne (Perru White)</field>
+		<field name="Cast">Diane Lane (Martha Kent)</field>
+        <field name="Cast">Holly Hunter (June Finch)</field>
+        <field name="Cast">Tao Okamoto (Mercy Graves)</field>
+		
+		
+		<!--lista géneros-->
+		<field name="Genre">Ciencia Ficción</field>
+		<field name="Genre">Acción</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">12200</field>
+		<field name="FileDuration">PT2M46S</field>
+	</doc>
+</add>
+

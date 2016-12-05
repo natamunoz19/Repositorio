@@ -1,0 +1,56 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/comedia_thedoover</field>
+		<field name="id">comedia_thedoover</field>
+		<field name="Title">	The Do Over: Los Doble-Vida </field>
+		<field name="ShortTitle">The Do Over</field>
+		<field name="Synopsis">La vida de un gerente de banco da un vuelco cuando un amigo del pasado lo manipula para que finja su propia muerte y viva una aventura completamente nueva </field>
+		<field name="Duration">PT108M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Doble</field>
+		<field name="Keyword">Vida</field>
+		<field name="Keyword">Doover</field>
+        <field name="Keyword">Muerte</field>
+		<field name="Keyword">Aventura</field>
+		<field name="Keyword">Banco</field>
+
+		<!--Director y distribución-->
+		<field name="Director">Steven Brill</field>
+		<field name="CopyrightNotice">Netflix</field>
+		<field name="Classification">12</field>
+
+		<!--Reparto-->
+		<field name="Cast">Adam Sandler (Max Kessler)</field>
+		<field name="Cast">David Spade (Charlie)</field>
+		<field name="Cast">Paula Patton (Heather)</field>
+		<field name="Cast">Nick Swadson  (Bon)</field>
+		<field name="Cast">Luis Guzman (Jorge)</field>
+		<field name="Cast">Catherine Bell (Dawn)</field>
+		<field name="Cast">Jared Sandler (DJ)</field>
+		<field name="Cast">Renée Taylor (Sra. Kessler)</field>
+        <field name="Cast">Torsten Voges (Gimnasta)</field>
+        <field name="Cast">Marisol Corrae (Jefa)</field>
+        <field name="Cast">Scott Christopher Kelly (Runion Dancer)</field>
+        <field name="Cast">Timothy Douglas Perez (Grunge)</field>
+		
+		
+		<!--lista géneros-->
+		<field name="Genre">Comedia</field>
+		<field name="Genre">Aventura</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">2360</field>
+		<field name="FileDuration">PT0M26S</field>
+	</doc>
+</add>
+

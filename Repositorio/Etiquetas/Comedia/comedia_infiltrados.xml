@@ -1,0 +1,58 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/comedia_infiltrados</field>
+		<field name="id">comedia_infiltrados</field>
+		<field name="Title">Infiltrados en Miami </field>
+		<field name="ShortTitle">Infiltrados en Miami</field>
+		<field name="Synopsis">Ben (Kevin Hart), que trabaja como guarda de seguridad de un instituto, lleva dos años intentando demostrar al condecorado detective James (Ice Cube) que su adicción a los videojuegos no le impide estar a la altura de Angela (Tika Sumpter), hermana del policía. Después de que la academia de policía acepte a Ben, este se convence de que ya se ha ganado el respeto del detective y que ahora podrá casarse con Angela. James sabe que la única forma de descubrir si Ben está realmente a la altura es llevándole a patrullar con él, y le invita a hacerlo en un turno diseñado para aterrorizar al novato. Pero cuando los acontecimientos les llevan ante el mayor delincuente de la ciudad, James comprobará que la labia de su compañero es tan peligrosa como las balas. </field>
+		<field name="Duration">PT101M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Infiltrados</field>
+		<field name="Keyword">Miami</field>
+		<field name="Keyword">Ride</field>
+        <field name="Keyword">Along</field>
+		<field name="Keyword">Novato</field>
+		<field name="Keyword">Apuros</field>
+  
+		<!--Director y distribución-->
+		<field name="Director">Peter Segal</field>
+		<field name="CopyrightNotice">Universal Pictures</field>
+		<field name="Classification">12</field>
+
+		<!--Reparto-->
+		<field name="Cast">Ice Cube (James Payton)</field>
+		<field name="Cast">Kevin Hart  (Ben Barber)</field>
+		<field name="Cast">Tika Sumpter (Angela Payton)</field>
+		<field name="Cast">Benjamin Bratt (Antonio Pope)</field>
+		<field name="Cast">Olivia Munn (Maya Cruz)</field>
+		<field name="Cast">Jen Jeong (A.J)</field>
+		<field name="Cast">Glen Powell (Troy)</field>
+        <field name="Cast">Sherri Shepherd (Cori)</field>
+        <field name="Cast">Bruce McGill (Lt. Brooks)</field>
+		<field name="Cast">Tip Harris (Tony David) </field>
+		<field name="Cast">Nadine Velazquez (Tasha) </field>
+		<field name="Cast">Tyrese Gibson (D.J) </field>
+		<field name="Cast">Dwyane Wade (Dwyane Wade) </field>
+		<field name="Cast">Chris Bosh (Chris Bosh) </field>
+		
+		
+		<!--lista géneros-->
+		<field name="Genre">Comedia</field>
+		<field name="Genre">Acción</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">10200</field>
+		<field name="FileDuration">PT2M29S</field>
+	</doc>
+</add>
+

@@ -1,0 +1,49 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/terror_heredero</field>
+		<field name="id">terror_heredero</field>
+		<field name="Title">El heredero del diablo</field>
+		<field name="ShortTitle">El heredero del diablo</field>
+		<field name="Synopsis">Después de una feliz luna de miel en la que hubo una noche de la que no recuerdan nada, una pareja de recién casados se entera de una noticia sorprendente: serán padres antes de lo que habían previsto. Con la idea de conservar recuerdos del embarazo, el marido comienza a grabarlo todo, pero pronto empieza a notar que su mujer se comporta de forma muy extraña. </field>
+		<field name="Duration">PT89M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Heredero</field>
+		<field name="Keyword">Diablo</field>	
+		<field name="Keyword">Oscuridad</field>	
+		<field name="Keyword">Mal</field>		
+
+		<!--Director y distribución-->
+		<field name="Director">Tyler Gillett</field>
+		<field name="CopyrightNotice">	20th Century Fox</field>
+		<field name="Classification">15</field>
+
+		<!--Reparto-->
+		<field name="Cast">Zach Gilford (Zach McCall)</field>
+		<field name="Cast">Allison Miller (Samantha McCall)</field>
+		<field name="Cast">Sam Anderson (Padre Thomas)</field>
+		<field name="Cast">Aimee Carrero (Emily)</field>
+		<field name="Cast">vanessa Ray (Suzie)</field>
+		<field name="Cast">Michael Papajohn (Policia)</field>
+		<field name="Cast">Griff Furst  (Keith)</field>
+		<field name="Cast">Tobert Belushi (Mason)</field>
+		<field name="Cast">Donna Duplantier (Dr. Ludka)</field>
+		
+		<!--lista géneros-->
+		<field name="Genre">Terror</field>
+		<field name="Genre">Suspenso</field>
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">4566</field>
+		<field name="FileDuration">PT1M40S</field>
+	</doc>
+</add>
+

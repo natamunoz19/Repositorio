@@ -1,0 +1,52 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/comedia_7dias</field>
+		<field name="id">comedia_7dias</field>
+		<field name="Title">7 Days in Hell </field>
+		<field name="ShortTitle">7 Days in Hell</field>
+		<field name="Synopsis">Un documental de ficción que expone la rivalidad entre dos de los más grandes tenistas de todos los tiempos que lucharon contra un partido en el 2001 que duró siete días. </field>
+		<field name="Duration">PT43M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Tenis</field>
+		<field name="Keyword">Documental</field>
+		<field name="Keyword">siete</field>
+        <field name="Keyword">7</field>
+		<field name="Keyword">Días</field>
+
+		<!--Director y distribución-->
+		<field name="Director">Jake Szymanski</field>
+		<field name="CopyrightNotice">	HBO Films</field>
+		<field name="Classification">12</field>
+
+		<!--Reparto-->
+		<field name="Cast">	Andy Samberg (Aaron Williams)</field>
+		<field name="Cast">Kit Harington (Charles Poole)</field>
+		<field name="Cast">Mary Steenburgen (Louisa Poole)</field>
+		<field name="Cast">Karen Gillan  (Lilly Allswoth)</field>
+		<field name="Cast">Lena Dunham (Lanny Denver)</field>
+		<field name="Cast">Will Forte (Sandy Pickard)</field>
+		<field name="Cast">June Squibb (Queen Elizabeth II)</field>
+		<field name="Cast">Michael Sheen (Caspian Wint)</field>
+		
+		
+		<!--lista géneros-->
+		<field name="Genre">Comedia</field>
+		<field name="Genre">Deportes</field>
+		<field name="Genre">Documental</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">15500</field>
+		<field name="FileDuration">PT2M43S</field>
+	</doc>
+</add>
+

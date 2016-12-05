@@ -1,0 +1,50 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/comedia_citas</field>
+		<field name="id">comedia_citas</field>
+		<field name="Title">50 primeras citas: Cómo si fuera la primera Vez </field>
+		<field name="ShortTitle">50 primeras citas</field>
+		<field name="Synopsis">Henry Roth (Adam Sandler) es un biólogo marino de Hawaii que se pasa la vida inventando excusas para no comprometerse con las numerosas chicas con las que sale. Sin embargo, cuando conoce a la chica de sus sueños, la encantadora Lucy Whitmore (Drew Barrymore), surge un extraño problema en la relación: cuando Lucy se levanta por las mañanas no recuerda absolutamente nada de lo ocurrido el día anterior, de modo que Henry no tendrá más remedio que reconquistarla cada día.  </field>
+		<field name="Duration">PT99M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Cita</field>
+		<field name="Keyword">Amor</field>
+		<field name="Keyword">Citas</field>
+        <field name="Keyword">Conquistar</field>
+		
+
+		<!--Director y distribución-->
+		<field name="Director">	Peter Segal</field>
+		<field name="CopyrightNotice">	Columbia Pictures</field>
+		<field name="Classification">12</field>
+
+		<!--Reparto-->
+		<field name="Cast">Adam Sandler (Henry Roth)</field>
+		<field name="Cast">Drew Barrymore (Lucy)</field>
+		<field name="Cast">Rob Schneider (Ula)</field>
+		<field name="Cast">Sean Astin  (Doug Whitmore)</field>
+		<field name="Cast">Lusia Strus (Alexa)</field>
+        <field name="Cast">Ami Hill (Sue</field>
+		
+		
+		<!--lista géneros-->
+		<field name="Genre">Comedia</field>
+		<field name="Genre">Romance</field>
+		
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">9750</field>
+		<field name="FileDuration">PT2M18S</field>
+	</doc>
+</add>
+

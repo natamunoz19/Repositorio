@@ -1,0 +1,51 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/cienciaf_tomorrowland</field>
+		<field name="id">cienciaf_tomorrowland</field>
+		<field name="Title">Tomorrowland</field>
+		<field name="ShortTitle">Tomorrowland</field>
+		<field name="Synopsis">Unidos por el mismo destino, una adolescente inteligente y optimista, llena de curiosidad científica, y un antiguo niño prodigio inventor, hastiado por las desilusiones, se embarcan en una peligrosa misión para desenterrar los secretos de un enigmático lugar localizado en algún lugar del tiempo y el espacio, conocido en la memoria colectiva como “Tomorrowland”, y así salvar a la humanidad. </field>
+		<field name="Duration">PT130M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Tomorrowland</field>
+		<field name="Keyword">Aventura</field>
+		<field name="Keyword">Adolescente</field>
+		<field name="Keyword">Misión</field>
+        <field name="Keyword">Peligro</field>
+      
+
+
+		<!--Director y distribución-->
+		<field name="Director">Brad Bird</field>
+		<field name="CopyrightNotice">Walt Disney Studios Motion Pictures</field>
+		<field name="Classification">12</field>
+
+		<!--Reparto-->
+		<field name="Cast">George Clooney (Frank Walker)</field>
+		<field name="Cast">Hugh Laurie ( David Nix)</field>
+		<field name="Cast">Britt Robertson ( Casey Newton)</field>
+		<field name="Cast">Shiloh Nelson (Casey Newton)</field>
+		<field name="Cast">Raffey Cassidy (Athena)</field>
+		<field name="Cast">Tim McGraw (Eddie Newton)</field>
+		
+		
+		<!--lista géneros-->
+		<field name="Genre">Ciencia Ficción</field>
+		<field name="Cast">Aventura</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">34900</field>
+		<field name="FileDuration">PT2M28S</field>
+	</doc>
+</add>
+

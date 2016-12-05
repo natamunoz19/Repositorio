@@ -1,0 +1,62 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/accion_mercenarios3</field>
+		<field name="id">accion_mercenarios3</field>
+		<field name="Title">Los mercenarios 3</field>
+		<field name="ShortTitle">Los mercenarios 3 </field>
+		<field name="Synopsis"> Gira en torno a la aparición de Stonebanks, el otro fundador del grupo conocido como Los Mercenarios, en la vida de Barney. Sus caminos se separaron cuando este se convirtió en traficante de armas, por lo que Barney se vio obligado a intentar matarle. Los Mercenarios se enfrentarán a este villano mientras se debaten entre las viejas y las nuevas tácticas de combate. </field>
+		<field name="Duration">PT123M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Mercenarios</field>
+		<field name="Keyword">Indestructibles</field>
+		<field name="Keyword">Expendables</field>
+        <field name="Keyword">3</field>
+        
+
+		<!--Director y distribución-->
+		<field name="Director">	Patrick Hughes</field>
+		<field name="CopyrightNotice">Lionsgate</field>
+		<field name="Classification">15</field>
+
+		<!--Reparto-->
+		<field name="Cast">Antonio Banderas (Galgp)</field>
+		<field name="Cast">Silvester Stallone  (Barney Ross)</field>
+		<field name="Cast">Jason Statham (Lee Christmas)</field>
+		<field name="Cast">Jet Li (Ying Yang)</field>
+		<field name="Cast">Wesley Snipes  ( Dr. Death)</field>
+		<field name="Cast">Dolph Lundgrem (Gunner Jenses)</field>
+		<field name="Cast">Kelsey Grammer (Bonaparte)</field>
+        <field name="Cast">Randy Couture  (Toll Road)</field>
+        <field name="Cast">Terry Crews (Hale Caesar)</field>
+        <field name="Cast">Kellan Lutz (John Smilee)</field>
+        <field name="Cast">Ronda Rousey (Luna)</field>
+        <field name="Cast">Glen Powell (Thorn)</field>
+        <field name="Cast">Victor Ortiz (Mars)</field>
+        <field name="Cast">Robert Davi (Goran Vata)</field>
+        <field name="Cast">Mel Gibson (Conrad Stonebanks)</field>
+        <field name="Cast">Harrison Ford (Max Drummer)</field>
+        <field name="Cast">Arnold Schwarzenegger (Trench Mauser)</field>
+		
+		
+		<!--lista géneros-->
+		<field name="Genre">Ciencia Ficción</field>
+		<field name="Genre">Acción</field>
+        <field name="Genre">Suspenso</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+        <field name="ProductionLocation">Francia</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">9380</field>
+		<field name="FileDuration">PT2M12S</field>
+	</doc>
+</add>
+

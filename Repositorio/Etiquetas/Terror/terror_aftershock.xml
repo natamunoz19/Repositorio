@@ -1,0 +1,53 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/terror_aftershock</field>
+		<field name="id">terror_aftershock</field>
+		<field name="Title">Aftershock</field>
+		<field name="ShortTitle">Aftershock</field>
+		<field name="Synopsis">Un grupo de seis jóvenes de distintos países (Chile, Estados Unidos y Hungría) se encuentran en Chile pasando unas vacaciones, después de conocerse en una discoteca. En uno de sus viajes a la ciudad de Valparaíso, mientras están en otra discoteca, ocurre un terremoto que convierte en un total caos a la gente y la ciudad. Durante el sismo, se escapan de una cárcel cercana unos prisioneros que desatan el caos </field>
+		<field name="Duration">PT89M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Aftershock</field>
+		<field name="Keyword">Jovenes</field>
+        <field name="Keyword">Chile</field>
+		<field name="Keyword">Oscuridad</field>
+		<field name="Keyword">Carcel</field>
+		<field name="Keyword">Prisioneros</field>		
+
+		<!--Director y distribución-->
+		<field name="Director">James Wan</field>
+		<field name="CopyrightNotice">Cross Creek Pictures</field>
+		<field name="Classification">15</field>
+
+		<!--Reparto-->
+		<field name="Cast">Eli Roth (Gringo)</field>
+        <field name="Cast">Andrea Osvárt (Monica)</field>
+        <field name="Cast">Ariel Levy (Ariel)</field>
+        <field name="Cast">Natasha Tarovenko (Irina)</field>
+        <field name="Cast">Nicolas Martinez (Pollo)</field>
+        <field name="Cast">Lorenza Izzo (Kylie)</field>
+        <field name="Cast">Marcial Tagle (Bombero)</field>
+        <field name="Cast">Ramón Llao  (Ramon)</field>
+    
+		
+		<!--lista géneros-->
+		<field name="Genre">Terror</field>
+        <field name="Genre">Suspenso</field>	
+		<field name="Genre">Acción</field>	
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+        <field name="ProductionLocation">Chile</field>        
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">21100</field>
+		<field name="FileDuration">PT2M15S</field>
+	</doc>
+</add>
+

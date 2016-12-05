@@ -1,0 +1,53 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/animadas_vidasec</field>
+		<field name="id">animadas_vidasec</field>
+		<field name="Title">La vida secreta de tus mascostas</field>
+		<field name="ShortTitle">Mascotas</field>
+		<field name="Synopsis">En un edificio de apartamentos de Manhattan, la vida de Max como mascota favorita se pone al revés, cuando su propietaria trae a casa a un desalineado perro mestizo llamado Duke, con quien Max tiene sus diferencias. Es así, que ambas mascotas tienen que dejar atrás sus disputas, cuando se enteran de que un adorable conejito blanco llamado Snowball está reclutando un ejército de animales domésticos abandonados, decidido a vengarse de todos los animales domésticos felices y sus dueños. </field>
+		<field name="Duration">PT87M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Mascostas</field>
+		<field name="Keyword">Secreta</field>
+		<field name="Keyword">Vida</field>
+		<field name="Keyword">Animales</field>
+		<field name="Keyword">Perros</field>
+
+		<!--Director y distribución-->
+		<field name="Director">Mike Mitchell</field>
+		<field name="CopyrightNotice">Universal Pictures</field>
+		<field name="Classification">T</field>
+
+		<!--Reparto-->
+		<field name="Cast">Louis C.K. (Max)</field>
+		<field name="Cast">Jenny Slate (Gidget)</field>
+		<field name="Cast">Eric Stonestreet (Duke)</field>
+		<field name="Cast">Kevin Hart (Snowball)</field>
+		<field name="Cast">Ellie Kemper (Katie)</field>
+		<field name="Cast">Steve Coogan (Ozone)</field>
+		<field name="Cast">Bobby Moynihan (Mel)</field>
+		<field name="Cast">Lake Bell (Chloe)</field>
+		<field name="Cast">Dana Carvey (Pops)</field>
+		
+		
+		<!--lista géneros-->
+		<field name="Genre">Animadas</field>
+		<field name="Genre">Comedia</field>
+		<field name="Genre">Infantil</field>
+		
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">8050</field>
+		<field name="FileDuration">PT2M35S</field>
+	</doc>
+</add>
+

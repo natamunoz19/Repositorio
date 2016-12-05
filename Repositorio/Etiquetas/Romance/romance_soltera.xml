@@ -1,0 +1,55 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/romance_soltera</field>
+		<field name="id">romance_soltera</field>
+		<field name="Title">Cómo ser soltera</field>
+		<field name="ShortTitle">Cómo ser soltera </field>
+		<field name="Synopsis">Hay muchas formas de ser soltero, pero la de Alice, Robin, Lucy, Meg, Tom y David es especial. Nueva York es una ciudad llena de corazones solitarios que buscan a su media naranja. Y en cualquier lugar, entre conversaciones sugerentes y ligues de una noche, lo que estos solteros tienen en común es la necesidad de saber cómo ser solteros en un mundo donde el amor está en continua evolución. </field>
+		<field name="Duration">PT110M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Amor</field>
+		<field name="Keyword">Amigas</field>
+		<field name="Keyword">Fiesta</field>
+		<field name="Keyword">Fiesta</field>
+        
+  
+		<!--Director y distribución-->
+		<field name="Director">	Christian Ditter</field>
+		<field name="CopyrightNotice">	Warner Bros</field>
+		<field name="Classification">12</field>
+
+		<!--Reparto-->
+		<field name="Cast">Dakota Johnson (Alice)</field>
+		<field name="Cast">Rebel Wilson (Robin)</field>
+		<field name="Cast">Alison Brie (Lucy)</field>
+		<field name="Cast">Leslie Mann (Meg)</field>
+		<field name="Cast">Nicholas Braun (Josh)</field>
+		<field name="Cast">Jason Mantzoukas (George)</field>
+		<field name="Cast">Damon Wayans (David)</field>
+        <field name="Cast">Colin Jost(Paul)</field>
+		<field name="Cast">Jake Lacy (Ken)</field>
+		<field name="Cast">Anders Holm (Tom)</field>
+		<field name="Cast">Sarah Ramos (Michell)</field>
+
+        
+		
+		<!--lista géneros-->
+		<field name="Genre">Romance</field>
+		<field name="Genre">Comedia</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">9420</field>
+		<field name="FileDuration">PT2M31S</field>
+	</doc>
+</add>
+

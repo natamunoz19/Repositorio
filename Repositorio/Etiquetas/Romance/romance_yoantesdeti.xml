@@ -1,0 +1,51 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/romance_yoantesdeti</field>
+		<field name="id">romance_yoantesdeti</field>
+		<field name="Title">Yo antes de ti </field>
+		<field name="ShortTitle">Yo antes de ti</field>
+		<field name="Synopsis">Louisa Clark es una entusiasta, parlanchina, ingenua y alegre veinteañera que jamás ha salido de su pueblo, y que debe buscar urgentemente un trabajo para mantener a su familia. En su camino se cruza con Will Traynor , un exitoso hombre de negocios que gusta del deporte de riesgo y que también creció en el mismo pueblo, al que tras sufrir un accidente de transito queda tetrapléjico en silla de ruedas. Debido a su condición, este exaventurero ha caído en una profunda amargura, por lo que está cada vez más decidido a suicidarse. El trabajo de Lou será cuidar a Will. Será entonces cuando la determinación, la dulzura y el optimismo de Lou harán que Will comprenda que la vida es algo que merece la pena vivir.  </field>
+		<field name="Duration">PT88M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Yo</field>
+		<field name="Keyword">Trabajo</field>
+		<field name="Keyword">Familia</field>
+        <field name="Keyword">Amor</field>
+        <field name="Keyword">Accidente</field>
+        
+  
+		<!--Director y distribución-->
+		<field name="Director">	Thea Sharrock</field>
+		<field name="CopyrightNotice"> 	Warner Bros</field>
+		<field name="Classification">12</field>
+
+		<!--Reparto-->
+		<field name="Cast">Emilia Clarke (Louisa Clark)</field>
+		<field name="Cast">Sam Clafin (Will Traynor)</field>
+		<field name="Cast">Jenna Coleman  (Katrina Clark)</field>
+		<field name="Cast">Charles Dance (Steven Traynor)</field>
+		<field name="Cast">Matthew Lewis (Patrick)</field>
+        <field name="Cast">Janet McTeer (Camila Traynor)</field>
+        <field name="Cast">Vanessa Kirby (Alicia)</field>
+        <field name="Cast">Steve Peacocke (Nathan)</field>
+		
+		<!--lista géneros-->
+		<field name="Genre">Romance</field>
+		<field name="Genre">Drama</field>
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">España </field>
+        <field name="ProductionLocation">Estados Unidos </field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">7670</field>
+		<field name="FileDuration">PT2M24S</field>
+	</doc>
+</add>
+

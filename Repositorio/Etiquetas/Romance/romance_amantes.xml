@@ -1,0 +1,50 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/romance_amantes</field>
+		<field name="id">romance_amantes</field>
+		<field name="Title">Nuestros Amantes</field>
+		<field name="ShortTitle">Nuestros Amantes</field>
+		<field name="Synopsis">Carlos es un guionista cinematográfico que se siente frustrado profesionalmente. Con 30 años, Irene no tiene claro qué hacer con su vida. Sobre ellos aún planean las sombras de sus antiguas relaciones: María (Salamanca) y Jorge (Gabino Diego). Cuando Irene se encuentra con Carlos en una librería-café, aunque no lo conoce, se acerca a él y le propone un juego: convertir sus anodinas vidas en una aventura. Irene es una soñadora nata, pero Carlos ha olvidado cómo soñar. Juntos harán lo imposible por lograr ser felices. Sólo hay una norma: no enamorarse.  </field>
+		<field name="Duration">PT88M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Amantes</field>
+		<field name="Keyword">Libreria</field>
+		<field name="Keyword">Relacion</field>
+        <field name="Keyword">Amor</field>
+        
+  
+		<!--Director y distribución-->
+		<field name="Director">Miguel Ángel Lamata</field>
+		<field name="CopyrightNotice"> 	Filmax</field>
+		<field name="Classification">12</field>
+
+		<!--Reparto-->
+		<field name="Cast">Gabino Diego (Jorge)</field>
+		<field name="Cast">Michelle Jenner (Irene)</field>
+		<field name="Cast">Fele Martinez (Cristóbal)</field>
+		<field name="Cast">Maria Jose Moreno (Ursula)</field>
+		<field name="Cast">Eduardo Noriega (Carlos)</field>
+        <field name="Cast">Amaia Salamanca (Maria)</field>
+        <field name="Cast">Jorge Usón (Jesús)</field>
+        
+		
+		<!--lista géneros-->
+		<field name="Genre">Romance</field>
+		<field name="Genre">Comedia</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">España </field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">7030</field>
+		<field name="FileDuration">PT1M58S</field>
+	</doc>
+</add>
+

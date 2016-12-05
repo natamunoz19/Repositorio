@@ -1,0 +1,49 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/cienciaf_llegada</field>
+		<field name="id">cienciaf_llegada</field>
+		<field name="Title">La llegada (Arrival)</field>
+		<field name="ShortTitle">La llegada</field>
+		<field name="Synopsis">Cuando unos extraterrestres aterrizan en todo el mundo, una experta lingüista es reclutada por los militares para determinar si entran en paz o son una amenaza. A medida que aprende a comunicarse con los alienígenas, ella comienza a experimentar retrocesos vivos que se convierten en la clave para desbloquear el mayor misterio sobre el verdadero propósito de su visita. </field>
+		<field name="Duration">PT116M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">llegada</field>
+		<field name="Keyword">extraterrestres</field>
+		<field name="Keyword">Arrival</field>
+		<field name="Keyword">Alienigenas</field>
+
+		<!--Director y distribución-->
+		<field name="Director">	Denis Villeneuve</field>
+		<field name="CopyrightNotice">Paramount Pictures</field>
+		<field name="Classification">12</field>
+
+		<!--Reparto-->
+		<field name="Cast">Amy Adams (Dra.louise Banks)</field>
+		<field name="Cast">Jeremy Renner (Ian Donnelly)</field>
+		<field name="Cast">Forest Whitaker (Coronel Weber)</field>
+		<field name="Cast">Michael Stuhlbarg (Agente Halpern)</field>
+		<field name="Cast">Tzi Ma (General Shang)</field>
+		<field name="Cast">Mark O'Brien (Capitán Marks)</field>
+		
+		
+		<!--lista géneros-->
+		<field name="Genre">Ciencia Ficción</field>
+		<field name="Genre">Drama</field>
+		<field name="Cast">Acción</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">17500</field>
+		<field name="FileDuration">PT2M07S</field>
+	</doc>
+</add>
+

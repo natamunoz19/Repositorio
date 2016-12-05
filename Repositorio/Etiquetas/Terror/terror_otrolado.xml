@@ -1,0 +1,48 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/terror_otrolado</field>
+		<field name="id">terror_otrolado</field>
+		<field name="Title">Del otro lado de la puerta</field>
+		<field name="ShortTitle">Del otro lado de la puerta</field>
+		<field name="Synopsis">María (Sarah Wayne Callies) es una madre devastada por un dramático suceso: la reciente muerte de su hijo Oliver en trágicas circunstancias. Tras pasar por uno de los peores momentos de su vida, la protagonista intenta superar esta ausencia mediante el apoyo de su marido Michael (Jeremy Sisto) y su hija Lucy (Sofia Rosinsky), hasta que un día se entera de algo que lo cambiará todo. </field>
+		<field name="Duration">PT96M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">el otro lado</field>
+		<field name="Keyword">puerta</field>
+        <field name="Keyword">terror</field>		
+
+		<!--Director y distribución-->
+		<field name="Director">Johannes Roberts</field>
+		<field name="CopyrightNotice">20th Century Fox</field>
+		<field name="Classification">15</field>
+
+		<!--Reparto-->
+		<field name="Cast">María (Sarah Wayne Callies)</field>
+		<field name="Cast">Michael (Jeremy Sisto)</field>
+		<field name="Cast">Myrtu (Javier Botet)</field>
+		<field name="Cast">Lucy (Sofia Rosinsky)</field>
+		<field name="Cast">Oliver (Logan Creran)</field>
+        <field name="Cast">Oliver (Jax Malcolm)</field>
+		<field name="Cast">Piki (Suchitra Pillai-Malik)</field>
+		
+		<!--lista géneros-->
+		<field name="Genre">Terror</field>
+		<field name="Genre">Drama</field>
+        <field name="Genre">Adaptación cinematográfica</field>
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Gran Bretaña</field>
+        <field name="ProductionLocation">India</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">7460</field>
+		<field name="FileDuration">PT2M24S</field>
+	</doc>
+</add>
+

@@ -1,0 +1,52 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/cienciaf_terminator</field>
+		<field name="id">cienciaf_terminator</field>
+		<field name="Title">Terminator Génesis</field>
+		<field name="ShortTitle">Terminator Génesis</field>
+		<field name="Synopsis">Año 2032. La guerra del futuro se está librando y un grupo de rebeldes humanos tiene el sistema de inteligencia artificial Skynet contra las cuerdas. John Connor (Jason Clarke) es el líder de la resistencia, y Kyle Reese (Jai Courtney) es su fiel soldado, criado en las ruinas de una postapocalíptica California. Para salvaguardar el futuro, Connor envía a Reese a 1984 para salvar a su madre, Sarah (Emilia Clarke) de un Terminator programado para matarla con el fin de que no llegue a dar a luz a John. Pero lo que Reese encuentra en el otro lado no es como él esperaba... </field>
+		<field name="Duration">PT126M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Terminator</field>
+		<field name="Keyword">Génesis</field>
+		<field name="Keyword">Guerra</field>
+		<field name="Keyword">California</field>
+        <field name="Keyword">Futuro</field>
+      
+
+
+		<!--Director y distribución-->
+		<field name="Director">	Alan Taylor</field>
+		<field name="CopyrightNotice">	Paramount Pictures</field>
+		<field name="Classification">13</field>
+
+		<!--Reparto-->
+		<field name="Cast">Arnold Schwarzenegger (Terminator)</field>
+		<field name="Cast">Jai Courtney ( Kyle Reese)</field>
+		<field name="Cast">Emilia Clarke ( Sara Connor)</field>
+		<field name="Cast">Jason Clarke (John Connor)</field>
+		<field name="Cast">Byung-hun Lee (T-1000)</field>
+		<field name="Cast">Dayo Ojeniyi (Danny Dyson)</field>
+        <field name="Cast">Sandrine Holt (Detective Cheung)</field>
+		
+		
+		<!--lista géneros-->
+		<field name="Genre">Ciencia Ficción</field>
+		<field name="Cast">Acción</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">33600</field>
+		<field name="FileDuration">PT2M45S</field>
+	</doc>
+</add>
+

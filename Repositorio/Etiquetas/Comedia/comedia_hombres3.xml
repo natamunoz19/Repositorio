@@ -1,0 +1,49 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/comedia_hombres3</field>
+		<field name="id">comedia_hombres3</field>
+		<field name="Title">Hombres de negro III </field>
+		<field name="ShortTitle">Hombres de negro III</field>
+		<field name="Synopsis"> Cuando el MIB recibe la información de que el Agente K podría morir a manos de un alienígena, lo que cambiaría la historia para siempre, el Agente J es enviado a los años 60 para evitarlo. Tercera entrega de la popular saga Men in Black.  </field>
+		<field name="Duration">PT107M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Hombres</field>
+		<field name="Keyword">Negro</field>
+		<field name="Keyword">Agente</field>
+        <field name="Keyword">Alienigena</field>
+		<field name="Keyword">Galaxia</field>
+
+		<!--Director y distribución-->
+		<field name="Director">	Steven Brill</field>
+		<field name="CopyrightNotice">Columbia Pictures</field>
+		<field name="Classification">12</field>
+
+		<!--Reparto-->
+		<field name="Cast">Will Smith (Agente J)</field>
+		<field name="Cast">Tommy Lee Jones  (Agente K)</field>
+		<field name="Cast">Emma Thompson ( Agente O)</field>
+		<field name="Cast">Nicole Scherzinger (Lily Poison)</field>
+		<field name="Cast">Jemaine Clement  (Animal)</field>
+		
+		
+		<!--lista géneros-->
+		<field name="Genre">Comedia</field>
+		<field name="Genre">Acción</field>
+		<field name="Genre">Ciencia ficción</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">9750</field>
+		<field name="FileDuration">PT2M18S</field>
+	</doc>
+</add>
+

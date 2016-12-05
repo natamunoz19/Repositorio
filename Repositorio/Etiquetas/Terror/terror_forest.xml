@@ -1,0 +1,47 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/terror_forest</field>
+		<field name="id">terror_forest</field>
+		<field name="Title">El bosque de los suicidios</field>
+		<field name="ShortTitle">The forest</field>
+		<field name="Synopsis">Convencida de que su hermana gemela aún está viva, Sara (Natalie Dormer) cruza el océano en su busca. La joven ha desaparecido misteriosamente en el legendario bosque Aokigahara, situado en la falda del Monte Fuji en Japón, un lugar en el que existen extrañas creencias ya que la gente suele acudir allí para suicidarse.</field>
+		<field name="Duration">PT94M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">capitulo final</field>
+		<field name="Keyword">resident evil</field>
+        <field name="Keyword">apocalipsis</field>		
+
+		<!--Director y distribución-->
+		<field name="Director">Mike Flanagan</field>
+		<field name="CopyrightNotice">Icon Film Distribution</field>
+		<field name="Classification">15</field>
+
+		<!--Reparto-->
+		<field name="Cast">Sara/Jess (Natalie Dormer)</field>
+        <field name="Cast">Aiden (Taylor Kinney)</field>
+        <field name="Cast">Rob (Eoin Macken)</field>
+        <field name="Cast">Valerie (Stephanie Vogt)</field>
+        <field name="Cast">Michi (Yukiyoshi Ozawa)</field>
+        <field name="Cast">Hoshiko (Rina Takasaki)</field>
+        <field name="Cast">Mayumi (Noriko Sakura)</field>
+        <field name="Cast">Sakura (Yûho Yamashita)</field>
+        <field name="Cast">Peter (James Owen)</field>
+
+		<!--lista géneros-->
+		<field name="Genre">Terror</field>	
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">9164</field>
+		<field name="FileDuration">PT2M30S</field>
+	</doc>
+</add>
+

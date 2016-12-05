@@ -1,0 +1,51 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/comedia_espiaymedio</field>
+		<field name="id">comedia_espiaymedio</field>
+		<field name="Title"> Un espía y medio </field>
+		<field name="ShortTitle">Un espía y medio</field>
+		<field name="Synopsis">Un letal agente del la CIA (Johnson), víctima de acoso escolar en su adolescencia, vuelve a casa para asistir a una reunión de antiguos alumnos. Con la excusa de estar trabajando en un caso secreto, consigue la ayuda del que fuera el chico más popular del Instituto (Hart), que ahora es un aburrido contable y vive añorando sus años de gloria. Cuando el pobre hombre se da cuenta del embrollo en el que se está metiendo, es ya demasiado tarde, pues su nuevo amigo lo implica en tiroteos, traiciones y espionaje, lo que le obligará a jugarse el cuello en incontables ocasiones.</field>
+		<field name="Duration">PT114M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">CIA</field>
+		<field name="Keyword">espía</field>
+		<field name="Keyword">Acoso</field>
+
+		<!--Director y distribución-->
+		<field name="Director">	Peter Segal</field>
+		<field name="CopyrightNotice">Universal Pictures</field>
+		<field name="Classification">7</field>
+
+		<!--Reparto-->
+		<field name="Cast">Dwayne Johnson(Bob Stone)</field>
+		<field name="Cast">Kevin Hart (Calvin Joyne)</field>
+		<field name="Cast">Amy Ryan (Pam Harris)</field>
+		<field name="Cast">Aaron Paul  (Phil Stanton)</field>
+		<field name="Cast">Danielle Nicolet (Maggie Joyner)</field>
+		<field name="Cast">Timothy John Smith (Nick Cooper)</field>
+		<field name="Cast">Megan Park (Lexi)</field>
+		<field name="Cast">Ryan Hansen (Steve)</field>
+        <field name="Cast">Thomas Kretschman (El comprador)</field>
+        <field name="Cast">Jason Bateman  (Trevor Olson)</field>
+        <field name="Cast">Melissa McCarthy (Darla)</field>
+		
+		
+		<!--lista géneros-->
+		<field name="Genre">Comedia</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">5450</field>
+		<field name="FileDuration">PT1M37S</field>
+	</doc>
+</add>
+

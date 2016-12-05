@@ -1,0 +1,48 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/romance_freeheld</field>
+		<field name="id">romance_freeheld</field>
+		<field name="Title">Freeheld: Un amor incondicional</field>
+		<field name="ShortTitle">Freeheld</field>
+		<field name="Synopsis">Basada en la historia real de Laurel Hester  y Stacie Andrée y su lucha por la justicia. A Laurel, una condecorada policía de Nueva Jersey, le diagnostican un cáncer terminal y quiere dejar su pensión ganada durante años a su pareja de hecho, Stacie. Sin embargo, los funcionarios del condado, que no ven con buenos ojos la pareja homosexual, conspiran para evitarlo.   </field>
+		<field name="Duration">PT93M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Freeheld</field>
+		<field name="Keyword">policía</field>
+		<field name="Keyword">Cancer</field>
+        <field name="Keyword">Amor</field>
+        
+  
+		<!--Director y distribución-->
+		<field name="Director">	Peter Sollett</field>
+		<field name="CopyrightNotice"> 	Lionsgate Films</field>
+		<field name="Classification">T</field>
+
+		<!--Reparto-->
+		<field name="Cast">Julianne Moore (Laurel Hester)</field>
+		<field name="Cast">Ellen Page (Stacie Andree)</field>
+		<field name="Cast">Steve Carrell (Steven Goldstein)</field>
+		<field name="Cast">Luke Grimes (Todd Belkin)</field>
+		<field name="Cast">Michael Shannon (Dane Wells)</field>
+        
+		
+		<!--lista géneros-->
+		<field name="Genre">Romance</field>
+		<field name="Genre">Drama</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos </field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">9120</field>
+		<field name="FileDuration">PT2M35S</field>
+	</doc>
+</add>
+

@@ -1,0 +1,52 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/terror_resident</field>
+		<field name="id">terror_resident</field>
+		<field name="Title">Resident Evil: El capitulo final</field>
+		<field name="ShortTitle">Resident Evil 6</field>
+		<field name="Synopsis">Alice (Milla Jovovich) es una de las últimas supervivientes del gran apocalipsis que vive la humanidad desde la primera expansión del Virus T, que ha supuesto enfrentarse a hordas de muertos vivientes. Nos encontramos inmediatamente después de los acontecimientos ocurridos en Resident Evil: Venganza (2012). Tras la traición sufrida a su llegada a Washington DC a manos de Albert Wesker (Shawn Roberts), Alice tendrá que volver a Racoon City, es decir, al punto en el que se inició la expansión de este mortífero virus. Allí, la Corporación Umbrella está reuniendo fuerzas antes del ataque final a los últimos supervivientes del apocalipsis.</field>
+		<field name="Duration">PT160M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">capitulo final</field>
+		<field name="Keyword">resident evil</field>
+        <field name="Keyword">apocalipsis</field>		
+
+		<!--Director y distribución-->
+		<field name="Director">Paul W. S. Anderson</field>
+		<field name="CopyrightNotice">Screen Gems</field>
+		<field name="Classification">12</field>
+
+		<!--Reparto-->
+		<field name="Cast">Alice (Milla Jovovich)</field>
+        <field name="Cast">Claire Redfield (Ali Larter)</field>
+        <field name="Cast">Wesker (Shawn Roberts)</field>
+        <field name="Cast">Michael (Fraser James)</field>
+        <field name="Cast">Cobalt (Rola)</field>
+        <field name="Cast">Abigail (Ruby Rose)</field>
+        <field name="Cast">Doc (Eoin Macken)</field>
+        <field name="Cast">Dr. Alexander Isaacs (Iain Glen)</field>
+        <field name="Cast">Christian (William Levy)</field>
+        <field name="Cast">Lee (Lee Jun Ki)</field>
+
+		<!--lista géneros-->
+		<field name="Genre">Terror</field>
+        <field name="Genre">Accion</field>		
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Alemania</field>
+        <field name="ProductionLocation">Francia</field>        
+		<field name="ProductionLocation">Canadá</field>
+        <field name="ProductionLocation">Australia</field>
+
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">7693</field>
+		<field name="FileDuration">PT2M29S</field>
+	</doc>
+</add>
+

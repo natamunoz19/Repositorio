@@ -1,0 +1,48 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/comedia_juntosyrev</field>
+		<field name="id">comedia_juntosyrev</field>
+		<field name="Title">Juntos y Revueltos </field>
+		<field name="ShortTitle">Juntos y Revueltos</field>
+		<field name="Synopsis">Un hombre y una mujer va un resort con sus respectivas familias y no pueden ocultar su sorpresa al verse el uno al otro. Ya se conocían, había tenido una cita a ciegas hace algún tiempo, una cita cuyo resultado no había sido para nada satisfactorio. No obstante, contra todo pronóstico, la tracción que entonces no sintieron hace ahora su aparición. Pero ellos no son los únicos que se ven beneficiados por esto, sus hijos también saben sacar partido a la situación, convirtiendo la creciente relación en algo de lo que pueden sacar provecho. </field>
+		<field name="Duration">PT117M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Juntos</field>
+		<field name="Keyword">Revueltos</field>
+		<field name="Keyword">Familia</field>
+        <field name="Keyword">Vacaciones</field>
+
+		<!--Director y distribución-->
+		<field name="Director">Steven Brill</field>
+		<field name="CopyrightNotice">Warner Bros. Pictures</field>
+		<field name="Classification">7</field>
+
+		<!--Reparto-->
+		<field name="Cast">Adam Sandler (Jim Friedman)</field>
+		<field name="Cast">Drew Barrymore (Lauren Reynolds)</field>
+		<field name="Cast">Bella Thome (Hilary Friedman)</field>
+		<field name="Cast">Terry Crews  (Nickens)</field>
+		<field name="Cast">Jessica Lowe (Ginger)</field>
+		<field name="Cast">Kevin Nealon (Eddy)</field>
+		
+		
+		<!--lista géneros-->
+		<field name="Genre">Comedia</field>
+		<field name="Genre">Romance</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">9750</field>
+		<field name="FileDuration">PT2M18S</field>
+	</doc>
+</add>
+

@@ -1,0 +1,22 @@
+{
+    "movies" : [
+        {
+            "title" : "primera pelicula",
+            "year" : "2004",
+            "genre" : "Horror",
+            "director" : "Takashi"
+        },
+        {
+            "title" : "segunda pelicula",
+            "year" : "2020",
+            "genre" : "Romance",
+            "director" : "Naruto"
+        },
+        {
+            "title" : "tercera pelicula",
+            "year" : "2000",
+            "genre" : "Animacion",
+            "director" : "Neruda"
+        }
+    ]
+}

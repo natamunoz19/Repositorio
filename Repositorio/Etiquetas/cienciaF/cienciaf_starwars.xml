@@ -1,0 +1,53 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/cienciaf_starwars</field>
+		<field name="id">cienciaf_starwars</field>
+		<field name="Title">Star Wars: Episodio VII- El Despertar de la Fuerza</field>
+		<field name="ShortTitle">El Despertar de la Fuerza</field>
+		<field name="Synopsis">Treinta años después de la victoria de la Alianza Rebelde sobre la segunda Estrella de la Muerte (hechos narrados en el Episodio VI: El retorno del Jedi), la galaxia está todavía en guerra. Una nueva República se ha constituido, pero una siniestra organización, la Primera Orden, ha resurgido de las cenizas del Imperio Galáctico. A los héroes de antaño, que luchan ahora en la Resistencia, se suman nuevos héroes: Poe Dameron, un piloto de caza, Finn, un desertor de la Primera Orden, Rey, una joven chatarrera, y BB-8, un androide rodante. Todos ellos luchan contra las fuerzas del Mal: el Capitán Phasma, de la Primera Orden, y Kylo Ren, un temible y misterioso personaje que empuña un sable de luz roja. </field>
+		<field name="Duration">PT135M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Star</field>
+		<field name="Keyword">Wars</field>
+		<field name="Keyword">Despertar</field>
+		<field name="Keyword">Fuerza</field>
+        <field name="Keyword">Galaxia</field>
+        <field name="Keyword">7</field>
+
+
+		<!--Director y distribución-->
+		<field name="Director">	J.J. Abrams</field>
+		<field name="CopyrightNotice">Walt Disney Pictures</field>
+		<field name="Classification">7</field>
+
+		<!--Reparto-->
+		<field name="Cast">Daisy Ridley (Rey)</field>
+		<field name="Cast">John Boyega (Fin)</field>
+		<field name="Cast">Adam Driver (Ben Solo/Kylo Ren)</field>
+		<field name="Cast">Harrison Ford (Han Solo)</field>
+		<field name="Cast">Peter Mayhew (Chewbacca)</field>
+		<field name="Cast">Oscar Isaac (Poe Dameron)</field>
+        <field name="Cast">Carrie Fisher (Leila Organa)</field>
+		
+		
+		<!--lista géneros-->
+		<field name="Genre">Ciencia Ficción</field>
+		<field name="Genre">Drama</field>
+		<field name="Cast">Acción</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">21600</field>
+		<field name="FileDuration">PT2M23S</field>
+	</doc>
+</add>
+

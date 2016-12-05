@@ -1,0 +1,52 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/animadas_trolls</field>
+		<field name="id">animadas_trolls</field>
+		<field name="Title">Trolls: Para gustos,los colores </field>
+		<field name="ShortTitle">Trolls</field>
+		<field name="Synopsis">La película contará la historia detrás de los queridos Trolls y de sus melenas de colores que desafían la gravedad. Una aventura épica que llevará a Poppy y a Branch mucho más lejos del único mundo que hasta entonces han conocido, en una búsqueda que pondrá a prueba su fuerza y les revelará sus verdaderos colores - ¡sin escasez alguna de números musicales por el camino!. </field>
+		<field name="Duration">PT92M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Trolls</field>
+		<field name="Keyword">Colores</field>
+		<field name="Keyword">Música</field>
+		
+
+		<!--Director y distribución-->
+		<field name="Director">Mike Mitchell</field>
+		<field name="CopyrightNotice">20th Century Fox</field>
+		<field name="Classification">T</field>
+
+		<!--Reparto-->
+		<field name="Cast">Belinda (Poppy)</field>
+		<field name="Cast">Aleks Syntek (Branch/Ramón)</field>
+        <field name="Cast">Annie Rojas (Bridget)</field>
+        <field name="Cast">Victor Ugarte (Creek)</field>
+        <field name="Cast">Eduardo Garza (Biggie)</field>
+        <field name="Cast">Gwen Stefani (DJ Suki)</field>
+        <field name="Cast">Ron Funches (Cooper)</field>
+        
+		
+		
+		<!--lista géneros-->
+		<field name="Genre">Comedia</field>
+		<field name="Genre">Musical</field>
+        <field name="Genre">Infantil</field>
+		<field name="Genre">Animadas</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">9000</field>
+		<field name="FileDuration">PT2M33S</field>
+	</doc>
+</add>
+

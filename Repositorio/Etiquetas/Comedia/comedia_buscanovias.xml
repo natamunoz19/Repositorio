@@ -1,0 +1,53 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/comedia_buscanovias</field>
+		<field name="id">comedia_buscanovias</field>
+		<field name="Title">Mike y Dave: Los Busca Novias </field>
+		<field name="ShortTitle">Los Busca Novias</field>
+		<field name="Synopsis">Mike y Dave Stangle son dos hermanos fiesteros que ponen un anuncio en Internet para encontrar pareja para acompañarles a la boda de su hermana, que tendrá lugar en Hawaii. Pero las dos elegidas, Tatiana y Alice, dos chicas aparentemente formales, resultarán ser dos jóvenes alocadas totalmente incontrolables. </field>
+		<field name="Duration">PT98M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Mike</field>
+		<field name="Keyword">Dave</field>
+		<field name="Keyword">Novia</field>
+        <field name="Keyword">Boda</field>
+		<field name="Keyword">Fiesta</field>
+		<field name="Keyword">Hawaii</field>
+
+		<!--Director y distribución-->
+		<field name="Director">Jake Szymanski</field>
+		<field name="CopyrightNotice">20th Century Fox</field>
+		<field name="Classification">15</field>
+
+		<!--Reparto-->
+		<field name="Cast">Adam Devine (Mike Stangle)</field>
+		<field name="Cast">Zac Efrom (Dave Stangle)</field>
+		<field name="Cast">Anna Kendrick (Alice)</field>
+		<field name="Cast">Aubrey Plaza  (Tatiana)</field>
+		<field name="Cast">Stephen Root (Burt Stangle)</field>
+		<field name="Cast">Alice Wetterlund (Terry)</field>
+		<field name="Cast">Sam Richardson (Eric)</field>
+		<field name="Cast">Sugar Lyn Beard (Jeanie Stangle)</field>
+		
+		
+		<!--lista géneros-->
+		<field name="Genre">Comedia</field>
+		<field name="Genre">Romance</field>
+		<field name="Genre">Aventura</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">15500</field>
+		<field name="FileDuration">PT2M43S</field>
+	</doc>
+</add>
+

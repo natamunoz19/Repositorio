@@ -1,0 +1,49 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/comedia_focus</field>
+		<field name="id">comedia_focus</field>
+		<field name="Title">Focus </field>
+		<field name="ShortTitle">Focus</field>
+		<field name="Synopsis">Una joven llamada Jess (Margot Robbie) intenta robarle a Nicky (Will Smith) quien es un estafador profesional, pero Nicky se da cuenta. Jess quiere ser parte del equipo de ladrones de Nicky pero él se rehúsa y viaja a Nueva Orleans, Jess se encuentra con él allí y pasa a ser parte del equipo. Luego se enamoran pero toman caminos diferentes para luego encontrarse en Buenos Aires. Jess, no conoce los planes de Nicky,lo que agrega más realidad a las estafas que él tiene planeadas. </field>
+		<field name="Duration">PT107M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Focus</field>
+		<field name="Keyword">Amor</field>
+		<field name="Keyword">Estafa</field>
+        <field name="Keyword">ladrones</field>
+		<field name="Keyword">ladron</field>
+
+		<!--Director y distribución-->
+		<field name="Director">	Judd Apatow</field>
+		<field name="CopyrightNotice">Warner Bros</field>
+		<field name="Classification">15</field>
+
+		<!--Reparto-->
+		<field name="Cast">Will Smith (Nicky Spurgeon)</field>
+		<field name="Cast">Margot Robbie (Jess Barrett)</field>
+		<field name="Cast">Rodrigo Santoro (Garriga)</field>
+		<field name="Cast">BD Wong  (Liyuan)</field>
+		<field name="Cast">Gerald McRaney  (Owens)</field>
+		
+		
+		<!--lista géneros-->
+		<field name="Genre">Comedia</field>
+		<field name="Genre">Romance</field>
+		<field name="Genre">Drama</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">9750</field>
+		<field name="FileDuration">PT2M18S</field>
+	</doc>
+</add>
+

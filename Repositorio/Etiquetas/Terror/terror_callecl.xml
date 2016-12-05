@@ -1,0 +1,44 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/terror_callecl</field>
+		<field name="id">terror_callecl</field>
+		<field name="Title">Calle Cloverfield 10</field>
+		<field name="ShortTitle">Calle Cloverfield</field>
+		<field name="Synopsis">Después de una desagradable pelea con su prometido, Michelle (Mary Elizabeth Winstead) huye en su coche, con una maleta que ha hecho a toda prisa. La joven conduce desde Nueva Orleans en dirección a Lake Charles, mientras en la radio se escuchan noticias sobre unas misteriosos sobretensiones eléctricas que están causando cortes de energía en todo el país, pero ella no está prestando atención. En algún lugar de una carretera desierta sufre una violenta colisión con una camioneta, dejándola inconsciente.</field>
+		<field name="Duration">PT103M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Cloverfield</field>
+		<field name="Keyword">Sotano</field>		
+
+		<!--Director y distribución-->
+		<field name="Director">Tyler Gillett</field>
+		<field name="CopyrightNotice">Paramoun Pictures</field>
+		<field name="Classification">12</field>
+
+		<!--Reparto-->
+		<field name="Cast">Michelle (Mary Elizabeth Winstead)</field>
+		<field name="Cast">Howard Stambler (John Goodman)</field>
+		<field name="Cast">Emmett DeWitt (John Gallagher, Jr.)</field>
+		<field name="Cast">Ben (Bradley Cooper)</field>
+		<field name="Cast">Leslie (Suzanne Cryer)</field>
+		<field name="Cast">locutor de radio (Frank Mottek)</field>
+		
+		<!--lista géneros-->
+		<field name="Genre">Ciencia Ficción</field>
+		<field name="Genre">Suspenso</field>
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">4566</field>
+		<field name="FileDuration">PT1M40S</field>
+	</doc>
+</add>
+

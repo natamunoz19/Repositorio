@@ -1,0 +1,54 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/accion_capitanamerica</field>
+		<field name="id">accion_capitanamerica</field>
+		<field name="Title">Capitán América : Guerra Civil </field>
+		<field name="ShortTitle">	Capitán América 3</field>
+		<field name="Synopsis"> Después de que otro incidente internacional involucre a Los Vengadores, causando varios daños colaterales, aumentan las presiones políticas para instaurar un sistema que exija más responsabilidades y que determine cuándo deben contratar los servicios del grupo de superhéroes. Esta nueva situación dividirá a Los Vengadores, mientras intentan proteger al mundo de un nuevo y terrible villano. Tercera entrega de la saga Capitán América. </field>
+		<field name="Duration">PT147M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Capitan</field>
+		<field name="Keyword">América</field>
+		<field name="Keyword">Guerra</field>
+        <field name="Keyword">Civil</field>
+        <field name="Keyword">War/field>
+        <field name="Keyword">3</field>
+        
+
+		<!--Director y distribución-->
+		<field name="Director">Hermanos Russo</field>
+		<field name="CopyrightNotice">	Walt Disney Studios Motion Pictures</field>
+		<field name="Classification">12</field>
+
+		<!--Reparto-->
+		<field name="Cast">Chris Evans (Steven Rogers/ Capitán América)</field>
+		<field name="Cast">Robert Downey Jr. (Tony Stark/Iron Man)</field>
+		<field name="Cast">Scarlett Johansson (Natasha Romanoff/ Viuda Negra)</field>
+		<field name="Cast">Sebastian Stan(James Barnes/El soldado del invierno)</field>
+		<field name="Cast">Wesley Snipes  (Samuel Wilson/Falcon)</field>
+		<field name="Cast">Don Cheadle (James Rhodes/ Máquina de Guerra)</field>
+		<field name="Cast">Jeremy Renner (Clint Barton /Hawkeye)</field>
+        <field name="Cast">Chadwick Boseman (T'Challa / Pantera Negra)</field>
+		
+		
+		<!--lista géneros-->
+		<field name="Genre">Ciencia Ficción</field>
+		<field name="Genre">Acción</field>
+        <field name="Genre">Suspenso</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">9440</field>
+		<field name="FileDuration">PT2M24S</field>
+	</doc>
+</add>
+

@@ -1,0 +1,54 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/accion_deadpool</field>
+		<field name="id">accion_deadpool</field>
+		<field name="Title">Deadpool</field>
+		<field name="ShortTitle">Deadpool</field>
+		<field name="Synopsis">Basado en el anti-héroe menos convencional de la Marvel, Deadpool narra el origen de un ex-operativo de la fuerzas especiales llamado Wade Wilson, reconvertido a mercenario, y que tras ser sometido a un cruel experimento adquiere poderes de curación rápida, adoptando Wade entonces el alter ego de Deadpool. Armado con sus nuevas habilidades y un oscuro y retorcido sentido del humor, Deadpool intentará dar caza al hombre que casi destruye su vida.  </field>
+		<field name="Duration">PT106M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Deadpool</field>
+		<field name="Keyword">Marvel</field>
+		<field name="Keyword">Héroe</field>
+        <field name="Keyword">superhéroe</field>
+        
+
+		<!--Director y distribución-->
+		<field name="Director">	Tim Miller</field>
+		<field name="CopyrightNotice">	20th Century Fox</field>
+		<field name="Classification">15</field>
+
+		<!--Reparto-->
+		<field name="Cast">Ryan Reynolds(Wade Wilson/ Deadpool)</field>
+		<field name="Cast">Morena Baccarin  (Vanessa Carlysle / Copycat)</field>
+		<field name="Cast">Ed Skrein (Francis /Ajax)</field>
+		<field name="Cast">Gina Carano (Christine/ Angel Dust)</field>
+		<field name="Cast">T.J. Miller ( Jack Hammer / Comadreja)</field>
+		<field name="Cast">Brianna Hildebrand (Ellie Hiciste/Negasonic)</field>
+		<field name="Cast">Stefan Kapicic (Piotr Rasputin/ Coloso)</field>
+        <field name="Cast">Leslie Uggams  (Blind Al)</field>
+        <field name="Cast">Stan Lee (Cameo)</field>
+        <field name="Cast">Hugh Jackman (Cameo)</field>
+		
+		
+		<!--lista géneros-->
+		<field name="Genre">Ciencia Ficción</field>
+		<field name="Genre">Acción</field>
+        <field name="Genre">Comedia</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">9380</field>
+		<field name="FileDuration">PT2M56S</field>
+	</doc>
+</add>
+

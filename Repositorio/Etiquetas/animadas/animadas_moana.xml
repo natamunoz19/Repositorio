@@ -1,0 +1,48 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/animadas_moana</field>
+		<field name="id">animadas_moana</field>
+		<field name="Title">Moana: Un Mar de Aventuras</field>
+		<field name="ShortTitle">Moana</field>
+		<field name="Synopsis">En el mundo antiguo de las islas del sur del Pacífico, Moana, una auténtica navegante, zarpa en busca de una isla legendaria. Forma equipo con su héroe, el semidiós Maui, para cruzar el océano en un viaje repleto de acción. En su viaje, encontrará enormes criaturas marinas, impresionantes submundos y tradiciones milenarias. </field>
+		<field name="Duration">PT104M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Moana</field>
+		<field name="Keyword">Vaiana</field>
+		<field name="Keyword">Disney</field>
+		<field name="Keyword">Océano</field>
+
+		<!--Director y distribución-->
+		<field name="Director">Ron Clements</field>
+		<field name="CopyrightNotice">Walt Disney Animation Studios</field>
+		<field name="Classification">T</field>
+
+		<!--Reparto-->
+		<field name="Cast">Dwayne Johnson (Maui)</field>
+		<field name="Cast">Auli'i Cravalho(Moana)</field>
+		
+		
+		<!--lista géneros-->
+		<field name="Genre">Drama</field>
+		<field name="Genre">Aventura</field>
+		<field name="Genre">Comedia</field>
+		<field name="Genre">Musical</field>
+		<field name="Genre">Animadas</field>
+		<field name="Genre">Infantil</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">12400</field>
+		<field name="FileDuration">PT1M02S</field>
+	</doc>
+</add>
+

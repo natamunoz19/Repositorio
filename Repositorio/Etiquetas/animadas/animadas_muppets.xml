@@ -1,0 +1,53 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/animadas_muppets</field>
+		<field name="id">animadas_muppets</field>
+		<field name="Title">	Muppets 2: los más buscados</field>
+		<field name="ShortTitle">Muppets 2</field>
+		<field name="Synopsis">Tras que los Muppets se reunieran de nuevo, Kermit y los demás reciben de un extraño (Ricky Gervais), la oferta de una gira mundial. Lo que no saben es que ese hombre, es un criminal secreto llamado Número 2, asistente de la rana más peligrosa del mundo, Constantine. Así los Muppets se verán involucrados accidentalmente en el crimen más grande del mundo: el robo de Los diamantes de la reina Isabel. </field>
+		<field name="Duration">PT107M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Muppets</field>
+		<field name="Keyword">Gira</field>
+		<field name="Keyword">Criminal</field>
+		<field name="Keyword">Crimen</field>
+		<field name="Keyword">Rana</field>
+		<field name="Keyword">Diamantes</field>
+		<field name="Keyword">Animales</field>
+		
+
+		<!--Director y distribución-->
+		<field name="Director"> Nicholas Stoller</field>
+		<field name="CopyrightNotice">Walt Disney Animation Studios</field>
+		<field name="Classification">T</field>
+
+		<!--Reparto-->
+
+		<field name="Cast">Ricky Gervais ( Dominic Badguy )
+		<field name="Cast">Try Burrell (Jean Pierre Napoleon )</field>
+		<field name="Cast">Tina Fey (Nadya)</field>
+		<field name="Cast">Ray Liotta (Big Papa)</field>
+		
+		
+		<!--lista géneros-->
+		<field name="Genre">Aventura</field>
+		<field name="Genre">Comedia</field>
+		<field name="Genre">Animadas</field>
+		<field name="Genre">Infantil</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">12400</field>
+		<field name="FileDuration">PT1M02S</field>
+	</doc>
+</add>
+

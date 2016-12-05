@@ -1,0 +1,54 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/animadas_cisne</field>
+		<field name="id">animadas_cisne</field>
+		<field name="Title">El cisne trompetista</field>
+		<field name="ShortTitle">El cisne trompetista</field>
+		<field name="Synopsis">Louie, un cisne trompetero joven, destaca entre sus hermanos por ser el más listo y el más atlético de la familia, pero también por ser mudo de nacimiento. Louie conoce a Serena, una bella y joven cisne que le ignora al ver que es incapaz de producir sonido alguno. Louie intenta llamar la atención de Serena, así que compensa su mudez aprendiendo a tocar la trompeta. </field>
+		<field name="Duration">PT75M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Cisne</field>
+		<field name="Keyword">Trompeta</field>
+		<field name="Keyword">Trompetista</field>
+		<field name="Keyword">Animales</field>
+		<field name="Keyword">Amor</field>
+
+		<!--Director y distribución-->
+		<field name="Director">	Richard Rich</field>
+		<field name="CopyrightNotice">TriStar Pictures</field>
+		<field name="Classification">T</field>
+
+		<!--Reparto-->
+		<field name="Cast">Dee Bradley Baker (Louie)</field>
+		<field name="Cast">Jason Alexander (Father)</field>
+		<field name="Cast">Mary Steenburgent (Mother)</field>
+		<field name="Cast">Reese Witherspoon (Serena)</field>
+		<field name="Cast">Seth Green (Boyd)</field>
+		<field name="Cast">Carol Burnett (Mrs. Hammerbotham)</field>
+		<field name="Cast">Joe Mantenga (Monty)</field>
+		<field name="Cast">Sam Gifaldi (Sam)</field>
+		<field name="Cast">Melissa Disney (Billie)</field>
+
+		
+		
+		<!--lista géneros-->
+		<field name="Genre">Animadas</field>
+		<field name="Genre">Romance</field>
+		<field name="Genre">Infantil</field>
+		
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">8050</field>
+		<field name="FileDuration">PT2M35S</field>
+	</doc>
+</add>
+

@@ -1,0 +1,57 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/terror_infiernoverde</field>
+		<field name="id">terror_infiernoverde</field>
+		<field name="Title">El infierno verde</field>
+		<field name="ShortTitle">Infierno verde</field>
+		<field name="Synopsis">Un ambicioso grupo de estudiantes activistas, en su búsqueda por la libertad y la lucha por los derechos humanos, deciden aventurarse a dejar su refugio seguro y acogedor en Nueva York para adentrarse en las selvas remotas de Perú. Buscando una conexión con la naturaleza que les dé el impulso necesario para que su voz de protesta recorra el mundo, van a dar con una tribu de caníbales. </field>
+		<field name="Duration">PT100M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Infierno</field>
+		<field name="Keyword">Infierno verde</field>
+        <field name="Keyword">canibales</field>		
+
+		<!--Director y distribución-->
+		<field name="Director">Johannes Roberts</field>
+		<field name="CopyrightNotice">Open Road Films</field>
+		<field name="Classification">18</field>
+
+		<!--Reparto-->
+		<field name="Cast">Justine (Lorenza Izzo)</field>
+        <field name="Cast">Alejandro (Ariel Levy)</field>
+        <field name="Cast">Jonah (Aaron Burns)</field>
+        <field name="Cast">Nick (Daryl Sabara)</field>
+        <field name="Cast">Amy (Kirby Bliss Blanton)</field>
+        <field name="Cast">Samantha (Magda Apanowicz)</field>
+        <field name="Cast">Daniel (Nicolás Martínez)</field>
+        <field name="Cast">Kara (Ignacia Allamand)</field>
+        <field name="Cast">Kaycee (Sky Ferreira)</field>
+        <field name="Cast">Charles (Richard Burgi)</field>
+        <field name="Cast">Carlos (Matías López)</field>
+        <field name="Cast">franco cazacabezas (Ramón Llao)</field>
+        <field name="Cast">anciana de la tribu (Antonieta Pari)</field>
+        <field name="Cast">Scott (Eusebio Arenas)</field>
+        <field name="Cast">decano (John Mark Allan)</field>
+        <field name="Cast">Brooke (Mary Dunworth)</field>
+        <field name="Cast">Cody (Cody Pittman)</field>
+		
+		<!--lista géneros-->
+		<field name="Genre">Terror</field>
+        <field name="Genre">Suspenso</field>		
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+        <field name="ProductionLocation">Chile</field>        
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">21100</field>
+		<field name="FileDuration">PT2M15S</field>
+	</doc>
+</add>
+

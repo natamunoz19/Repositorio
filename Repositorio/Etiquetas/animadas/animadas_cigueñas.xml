@@ -1,0 +1,50 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/animadas_cigueñas</field>
+		<field name="id">animadas_cigueñas</field>
+		<field name="Title">Cigüeñas: La historia que no te contaron</field>
+		<field name="ShortTitle">Cigueñas</field>
+		<field name="Synopsis">Las cigüeñas entregan los bebés... o al menos solían hacerlo. Ahora son entregados a través del gigante mundial de internet Cornerstore. Junior, la mejor cigüeña repartidora de la empresa, está por ser promovido cuando por accidente activa la Máquina de Hacer Bebés, produciendo una adorable y saludable bebé que no está autorizada. Desesperado por entregar el paquete y evitar problemas antes de que su jefe se entere, Junior junto con su amiga Tulip, la única humana en Montaña Cigüeña, corren para hacer su primera entrega de bebés - en un viaje salvaje y revelador que podría restaurar la verdadera misión de las cigüeñas en el mundo así como hacer a una familia feliz. </field>
+		<field name="Duration">PT87M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Cigueñas</field>
+		<field name="Keyword">Storks</field>
+		<field name="Keyword">Bebé</field>
+		<field name="Keyword">Animales</field>
+
+		<!--Director y distribución-->
+		<field name="Director">Nicholas Stoller</field>
+		<field name="CopyrightNotice">Warner Bros</field>
+		<field name="Classification">T</field>
+
+		<!--Reparto-->
+		<field name="Cast">	Andy Samberg (Junior)</field>
+		<field name="Cast">Kelsey Grammer (Hunter)</field>
+		<field name="Cast">Katie Crown (Tulip)</field>
+		<field name="Cast">Keegan-Michael Key (Rich)</field>
+		<field name="Cast">Jordan Peele (Michael)</field>
+		<field name="Cast">Danny Trejo (Gaspar)</field>
+		<field name="Cast">Jennifer Aniston (Sra. Sarah Gardner)</field>
+		<field name="Cast">Ty Burrell (Sr. Henry Gardner)</field>
+		
+		
+		<!--lista géneros-->
+		<field name="Genre">Animadas</field>
+		<field name="Genre">Aventura</field>
+		<field name="Genre">Infantil</field>
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">23000</field>
+		<field name="FileDuration">PT2M54S</field>
+	</doc>
+</add>
+

@@ -1,0 +1,48 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/terror_ouija</field>
+		<field name="id">terror_ouija</field>
+		<field name="Title">	Ouija: El Origen del Mal</field>
+		<field name="ShortTitle">Ouija</field>
+		<field name="Synopsis">Nueva película sobre el mítico y terrorífico juego de Hasbro, la Ouija, dirigida por Stiles White (guionista de The Possession, el origen del mal), que seguirá de cerca a unos adolescentes que deberán enfrentarse a una terrorífica situación, poniéndolos a prueba.
+Después de que uno de sus amigos sea brutalmente asesinado por un malvado ente oscuro, un grupo de amigos juega a la ouija para intentar hablar con él desde el más allá. Sin embargo, lo que consiguen es despertar a un antiguo espíritu y a los demonios más salvajes. Los chicos tendrán que hacer frente a sus miedos más profundos e intentar acabar con ellos. Han descubierto que la ouija no es un juego de niños, es algo mucho más real.</field>
+		<field name="Duration">PT90M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Ouija</field>
+		<field name="Keyword">Oscuridad</field>	
+		<field name="Keyword">Mal</field>	
+		<field name="Keyword">Asesino</field>		
+
+		<!--Director y distribución-->
+		<field name="Director">	Mike Flanagan</field>
+		<field name="CopyrightNotice">Universal Pictures</field>
+		<field name="Classification">15</field>
+
+		<!--Reparto-->
+		<field name="Cast">Henry Thomas</field>
+		<field name="Cast">Elizabeth Reaser</field>
+		<field name="Cast">Lulu Wilson</field>
+		<field name="Cast">Alex Truskulus</field>
+		<field name="Cast">Sam Anderson</field>
+		<field name="Cast">Kate Siegel</field>
+		<field name="Cast">Doug Jones </field>
+		
+		<!--lista géneros-->
+		<field name="Genre">Terror</field>
+		<field name="Genre">Suspenso</field>
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">4566</field>
+		<field name="FileDuration">PT1M40S</field>
+	</doc>
+</add>
+

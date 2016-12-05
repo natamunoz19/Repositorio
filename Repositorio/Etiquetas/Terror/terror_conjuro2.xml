@@ -1,0 +1,53 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/terror_conjuro2</field>
+		<field name="id">terror_conjuro2</field>
+		<field name="Title">El conjuro 2: El caso Enfield</field>
+		<field name="ShortTitle">El conjuro 2</field>
+		<field name="Synopsis">Enfield, Inglaterra, años 70. En una casa de esta pequeña localidad inglesa, donde viven una madre soltera (Frances O’Connor) y sus cuatro hijos, tienen lugar unos extraños sucesos. De nuevo, y para ayudar a esta familia que experimenta fenómenos sobrenaturales protagonizados por espíritus malignos, nos reencontraremos con el matrimonio de renombrados demonólogos formado por Lorraine (Vera Farmiga) y Ed Warren (Patrick Wilson), que investigarán estos aterradores fenómenos paranormales.</field>
+		<field name="Duration">PT133M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Enfield</field>
+		<field name="Keyword">Warren</field>
+        <field name="Keyword">Conjuro</field>		
+
+		<!--Director y distribución-->
+		<field name="Director">James Wan</field>
+		<field name="CopyrightNotice">Warner Bros</field>
+		<field name="Classification">15</field>
+
+		<!--Reparto-->
+		<field name="Cast">Lorraine Warren (Vera Farmiga)</field>
+		<field name="Cast">Ed Warren (Patrick Wilson)</field>
+		<field name="Cast">Peggy Hodgson (Frances O'Connor)</field>
+		<field name="Cast">Janet Hodgson (Madison Wolfe)</field>
+		<field name="Cast">Margaret Hodgson (Lauren Esposito)</field>
+        <field name="Cast">Johnny Hodgson (Patrick McAuley)</field>
+		<field name="Cast">Billy Hodgson (Benjamin Haigh)</field>
+        <field name="Cast">Maurice Grosse (Simon McBurney)</field>
+        <field name="Cast">Anita Gregory (Franka Potente)</field>
+        <field name="Cast">Judy Warren (Sterling Jerins)</field>
+        <field name="Cast">Drew Thomas (Shannon Kook)</field>
+        <field name="Cast">Peggy Nottingham (Maria Doyle Kennedy)</field>
+        <field name="Cast">Vic Nottingham (Simon Delaney)</field>
+        <field name="Cast">Valak (Bonnie Aarons)</field>
+        <field name="Cast">Allison DeFeo (Alexa Najera)</field>
+		
+		<!--lista géneros-->
+		<field name="Genre">Terror</field>		
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>        
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">7444</field>
+		<field name="FileDuration">PT2M30S</field>
+	</doc>
+</add>
+

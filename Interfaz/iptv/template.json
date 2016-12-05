@@ -1,0 +1,43 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":0,
+    "params":{
+      "q":"id:accion_deadpool",
+      "indent":"on",
+      "wt":"json"}},
+  "response":{"numFound":1,"start":0,"docs":[
+      {
+        "crid":["192.168.128.19:5554/accion_deadpool"],
+        "id":"accion_deadpool",
+        "Title":["Deadpool"],
+        "ShortTitle":["Deadpool"],
+        "Synopsis":["Basado en el anti-héroe menos convencional de la Marvel, Deadpool narra el origen de un ex-operativo de la fuerzas especiales llamado Wade Wilson, reconvertido a mercenario, y que tras ser sometido a un cruel experimento adquiere poderes de curación rápida, adoptando Wade entonces el alter ego de Deadpool. Armado con sus nuevas habilidades y un oscuro y retorcido sentido del humor, Deadpool intentará dar caza al hombre que casi destruye su vida.  "],
+        "Duration":["PT106M0S"],
+        "Keyword":["Deadpool",
+          "Marvel",
+          "Héroe",
+          "superhéroe"],
+        "Director":["\tTim Miller"],
+        "CopyrightNotice":["\t20th Century Fox"],
+        "Classification":["15"],
+        "Cast":["Ryan Reynolds(Wade Wilson/ Deadpool)",
+          "Morena Baccarin  (Vanessa Carlysle / Copycat)",
+          "Ed Skrein (Francis /Ajax)",
+          "Gina Carano (Christine/ Angel Dust)",
+          "T.J. Miller ( Jack Hammer / Comadreja)",
+          "Brianna Hildebrand (Ellie Hiciste/Negasonic)",
+          "Stefan Kapicic (Piotr Rasputin/ Coloso)",
+          "Leslie Uggams  (Blind Al)",
+          "Stan Lee (Cameo)",
+          "Hugh Jackman (Cameo)"],
+        "Genre":["Ciencia Ficción",
+          "Acción",
+          "Comedia"],
+        "Language":["es"],
+        "ProductionLocation":["Estados Unidos"],
+        "FileFormat":["mp4"],
+        "FileSize":[9380],
+        "FileDuration":["PT2M56S"],
+        "_version_":1552375433970843648}]
+  }}

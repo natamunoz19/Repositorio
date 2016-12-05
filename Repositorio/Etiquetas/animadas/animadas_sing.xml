@@ -1,0 +1,52 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/animadas_sing</field>
+		<field name="id">animadas_sing</field>
+		<field name="Title">SING: Ven y canta</field>
+		<field name="ShortTitle">SING</field>
+		<field name="Synopsis">“¡Canta!” tiene lugar en un mundo como el nuestro poblado por animales. Buster Moon (al que presta su voz el oscarizado Matthew McConaughey) es un elegante koala que regenta un teatro que conoció tiempos mejores. Buster es un optimista nato, lo que está muy bien si no fuera un poco sinvergüenza, que ama a su teatro con pasión y es capaz de cualquier cosa para salvarlo. Sabe que el sueño de su vida está a punto de desaparecer y solo tiene una oportunidad para mantenerlo a flote: producir el concurso de canto más grande del mundo. </field>
+		<field name="Duration">PT144M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">SING</field>
+		<field name="Keyword">Canta</field>
+		<field name="Keyword">Animales</field>
+		<field name="Keyword">Concurso</field>
+        <field name="Keyword">Musica</field>
+
+		<!--Director y distribución-->
+		<field name="Director">Ron Clements</field>
+		<field name="CopyrightNotice">Universal Studios, Inc.</field>
+		<field name="Classification">T</field>
+
+		<!--Reparto-->
+		<field name="Cast">Matthew McConaughey (Buster)</field>
+		<field name="Cast">Reese Witherspoon (Rosita)</field>
+        <field name="Cast">Seth MacFarlane (Mike)</field>
+        <field name="Cast">Tori Kelly (Meena)</field>
+        <field name="Cast">John C. Reilly (Oveja Negra)</field>
+        <field name="Cast">Taron Egerton (Johnny)</field>
+        <field name="Cast">Scarlett Johansson (Ash)</field>
+        
+		
+		
+		<!--lista géneros-->
+		<field name="Genre">Comedia</field>
+		<field name="Genre">Musical</field>
+		<field name="Genre">Animadas</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">14700</field>
+		<field name="FileDuration">PT3M27S</field>
+	</doc>
+</add>
+

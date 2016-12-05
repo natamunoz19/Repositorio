@@ -1,0 +1,52 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/cienciaf_xmenapo</field>
+		<field name="id">cienciaf_xmenapo</field>
+		<field name="Title">Xmen: Apocalipsis</field>
+		<field name="ShortTitle">Xmen: Apocalipsis</field>
+		<field name="Synopsis">Diez años después de los hechos ocurridos en Días del futuro pasado, los caminos de Magneto, Mística y Charles Xavier se han separado, pero volverán a unirse cuando Apocalipsis despierte. Este mutante que, desde los inicios de la civilización, fue venerado como un Dios, es el primer y más poderoso mutante del universo de los X-Men de Marvel. </field>
+		<field name="Duration">PT144M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">X men</field>
+		<field name="Keyword">Apocalipsis</field>
+		<field name="Keyword">Marvel</field>
+
+		<!--Director y distribución-->
+		<field name="Director">Bryan Singer</field>
+		<field name="CopyrightNotice">20th Century Fox</field>
+		<field name="Classification">+7</field>
+
+		<!--Reparto-->
+		<field name="Cast">James McAvoy (Charles Xavier/Professor X)</field>
+		<field name="Cast">Jennifer Lawrence (Raven Darkholme/Mystique)</field>
+		<field name="Cast">Michael Fassbender (Erik Lehnsherr/Magneto)</field>
+		<field name="Cast">Oscar Isaac (En Sabah Nur/Apocalypse)</field>
+		<field name="Cast">Nicholas Hoult (Hank McCoy/Beast)</field>
+		<field name="Cast">Rose Byrne (Moira MacTaggert)</field>
+		<field name="Cast">Evan Peters (Peter Maximoff/Quicksilver)</field>
+		<field name="Cast">Tye Sheridan (Scott Summers/Cyclops)</field>
+		<field name="Cast">Sophie Turner (Jean Grey)</field>
+		<field name="Cast">Olivia Munn (Psylocke)</field>
+		<field name="Cast">Lucas Till (Alex Summers/Havok)</field>
+		
+		<!--lista géneros-->
+		<field name="Genre">Ciencia Ficción</field>
+		<field name="Genre">Aventura</field>
+		<field name="Genre">Acción</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">28400</field>
+		<field name="FileDuration">PT2M34S</field>
+	</doc>
+</add>
+

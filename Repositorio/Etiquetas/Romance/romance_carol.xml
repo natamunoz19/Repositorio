@@ -1,0 +1,51 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/romance_carol</field>
+		<field name="id">romance_carol</field>
+		<field name="Title">Carol </field>
+		<field name="ShortTitle">Carol </field>
+		<field name="Synopsis">Nueva York, años 50. Therese Belivet (Rooney Mara), una joven dependienta de una tienda de Manhattan que sueña con una vida mejor, conoce un día a Carol Aird (Cate Blanchett), una mujer elegante y sofisticada que se encuentra atrapada en un matrimonio infeliz. Entre ellas surge una atracción inmediata, cada vez más intensa y profunda, que cambiará sus vidas para siempre.</field>
+		<field name="Duration">PT118M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Carol</field>
+		<field name="Keyword">Amor</field>
+		<field name="Keyword">York</field>
+        
+  
+		<!--Director y distribución-->
+		<field name="Director">	Todd Haynes</field>
+		<field name="CopyrightNotice">The Weinstein Company</field>
+		<field name="Classification">15</field>
+
+		<!--Reparto-->
+		<field name="Cast">Cate Blanchett (Carol Aird)</field>
+		<field name="Cast">Rooney Mara  (Therese Belivet)</field>
+		<field name="Cast">Sarah Paulson (Abby Gerhard)</field>
+		<field name="Cast">Kyle Chandler (Harge Aird)</field>
+		<field name="Cast">Cory Michael Smith (Tommy)</field>
+		<field name="Cast">John Magaro (Dannie)</field>
+		<field name="Cast">Carrie Brownstein (Genevieve Cantrell)</field>
+        <field name="Cast">Jake Lacy (Richard)</field>
+        
+		
+		<!--lista géneros-->
+		<field name="Genre">Romance</field>
+		<field name="Genre">Drama</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		<field name="ProductionLocation">Reino Unido</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">3290</field>
+		<field name="FileDuration">PT1M04S</field>
+	</doc>
+</add>
+

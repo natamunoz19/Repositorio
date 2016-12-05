@@ -1,0 +1,50 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/animadas_jefe</field>
+		<field name="id">animadas_jefe</field>
+		<field name="Title">Un jefe en pañales </field>
+		<field name="ShortTitle">Un jefe en pañales</field>
+		<field name="Synopsis"> Un Jefe en Pañales es una historia universal e hilarante acerca de cómo la llegada de un nuevo bebé impacta a una familia, contada desde la perspectiva de un narrador poco fiable, pero encantador: Tim, un niño de siete años, de mente desenfrenada e imaginativa.</field>
+		<field name="Duration">PT92M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Jefe</field>
+		<field name="Keyword">Bebé</field>
+		<field name="Keyword">Adopción</field>
+        <field name="Keyword">Familia</field>
+        <field name="Keyword">Hermano</field>
+		
+
+		<!--Director y distribución-->
+		<field name="Director"> Tom McGrath</field>
+		<field name="CopyrightNotice">DreamWorks Animation</field>
+		<field name="Classification">T</field>
+
+		<!--Reparto-->
+		<field name="Cast"> Lisa Kudrow</field>
+		<field name="Cast">Alec Baldwin</field>
+        <field name="Cast">Steve Buscemi</field>
+        <field name="Cast">Jimmy Kimmel</field>
+        <field name="Cast"> ViviAnn Yee</field>
+		
+		
+		<!--lista géneros-->
+		<field name="Genre">Animada</field>
+		<field name="Genre">Comedia</field>
+        <field name="Genre">Infantil</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">6390</field>
+		<field name="FileDuration">PT2M33S</field>
+	</doc>
+</add>
+

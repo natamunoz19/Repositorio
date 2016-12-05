@@ -1,0 +1,51 @@
+<add>
+	<doc>
+		<!--BASIC DESCRIPTION-->
+		<field name="crid">192.168.128.19:5554/accion_pointbreak</field>
+		<field name="id">accion_pointbreak</field>
+		<field name="Title"> Point Break :Punto De Quiebre </field>
+		<field name="ShortTitle">Punto de quiebre </field>
+		<field name="Synopsis">Thriller de acción cargado de altas dosis de adrenalina y un ritmo trepidante en el que un joven agente del FBI , Johnny Utah (Lucas Bracey), se infiltra en un equipo de atletas de élite a la búsqueda de emociones, liderado por el carismático Bodhi (Edgar Ramírez) . Los atletas son sospechosos de llevar a cabo una serie de crímenes de forma extremadamente inusual. Infiltrado en el grupo de forma encubierta y arriesgando su vida a cada instante, Utah se esfuerza por demostrar que son los artífices de una cadena de crímenes inconcebibles. </field>
+		<field name="Duration">PT123M0S</field>
+		
+		<!--lista palabras clave-->
+		<field name="Keyword">Point</field>
+		<field name="Keyword">Break</field>
+		<field name="Keyword">Punto</field>
+        <field name="Keyword">Quiebre</field>
+        <field name="Keyword">FBI</field>
+        <field name="Keyword">Atletas</field>
+        
+
+		<!--Director y distribución-->
+		<field name="Director">	Kathryn Bigelow</field>
+		<field name="CopyrightNotice">	20th Century Fox</field>
+		<field name="Classification">12</field>
+
+		<!--Reparto-->
+		<field name="Cast">Patrick Swayze (Bodhi)</field>
+		<field name="Cast">Keaneu Reeves (Johnny Utah)</field>
+		<field name="Cast">Gary Busey (Angelo Pappas)</field>
+		<field name="Cast">Lori Petty (Tyler Ann Endicott)</field>
+		<field name="Cast">John C. McGinley (Ben Harp)</field>
+		<field name="Cast">James LeGros(Roach)</field>
+		
+		<!--lista géneros-->
+		
+		<field name="Genre">Acción</field>
+        <field name="Genre">Suspenso</field>
+
+		
+		<!--lista idiomas-->
+		<field name="Language">es</field>
+		
+		<!--field name="CreditsList"></field-->
+		<field name="ProductionLocation">Estados Unidos</field>
+		
+		<!--AV ATTRIBUTES-->
+		<field name="FileFormat">mp4</field>
+		<field name="FileSize">11000</field>
+		<field name="FileDuration">PT2M37S</field>
+	</doc>
+</add>
+
